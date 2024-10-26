@@ -1,0 +1,281 @@
+The STEM of Animation - Carnegie Magazine
+
+The STEM of Animation - Carnegie Magazine
+Become a Member
+Reserve Tickets
+Donate Now
+Plan Your Visit
+Plan Your Visit
+Things to Do
+Shop Our Stores
+View Our Exhibitions
+Explore Our Collections
+Learn With Us
+Calendar
+Plan a Visit
+Members
+Become a Member
+Member Events
+Member Benefits
+Member FAQs
+Reciprocal Privileges
+Join & Support
+Membership
+Support
+Free Teen Membership
+Community Access Memberships
+Young Professionals
+Corporate Giving
+Planned Giving
+Great Event Spaces
+Carnegie Museums in Oakland
+Carnegie Science Center
+The Andy Warhol Museum
+Weddings at the Museums
+Contact Us
+Carnegie magazine
+Topics
+Art
+Science & Nature
+Facetime Q&A
+Behind the Scenes
+The Inclusive Museum
+Community
+STEM
+Carnegie International
+Where Art & Science Meet
+Current Issue
+Archive
+Subscribe
+Advertise
+Contact Us
+About Us
+Our History
+Our Museums
+Our Mission and Core Values
+Our Impact
+Our Leaders
+Opportunities
+Contact Us
+Search site
+Things to Do
+Shop Our Stores
+View Our Exhibitions
+Explore Our Collections
+Learn With Us
+Calendar
+Plan a Visit
+Members
+Become a Member
+Member Events
+Member Benefits
+Member FAQs
+Reciprocal Privileges
+Join & Support
+Membership
+Support
+Free Teen Membership
+Community Access Memberships
+Young Professionals
+Corporate Giving
+Planned Giving
+Great Event Spaces
+Carnegie Museums in Oakland
+Carnegie Science Center
+The Andy Warhol Museum
+Weddings at the Museums
+Contact Us
+Carnegie magazine
+Topics
+Art
+Science & Nature
+Facetime Q&A
+Behind the Scenes
+The Inclusive Museum
+Community
+STEM
+Carnegie International
+Where Art & Science Meet
+Current Issue
+Archive
+Subscribe
+Advertise
+Contact Us
+About Us
+Our History
+Our Museums
+Our Mission and Core Values
+Our Impact
+Our Leaders
+Opportunities
+Contact Us
+Topics
+Art
+Science & Nature
+Face Time Q&A
+Behind the Scenes
+The Inclusive Museum
+Community
+STEM
+Carnegie International
+Where Art & Science Meet
+Current Issue
+Archive
+Subscribe
+Advertise
+Contact Us
+The STEM of Animation
+The new Pixar exhibition at Carnegie Science Center offers insights into how the animation studio created some of its most iconic films.
+By Barbara Klein
+STEM
+|
+Where Art & Science Meet
+|
+Summer 2024
+Print
+Share
+Tweet
+Share
+Email
+|
+Text
+Size:
+A
+A
+A
+You May Also Like
+Science & Nature
+|
+STEM
+Objects of Our Affection: 3D-Printed Prosthetic Hand
+STEM
+|
+Where Art & Science Meet
+Storytelling through STEM
+Facetime Q&A
+|
+Science & Nature
+|
+STEM
+Q+A: Doug DeHaven
+As a kid, Paul Kanyuk didn’t dream of becoming a Pixar crowds technical supervisor. Not even in his wildest imaginings did he think that one day he would be the guy responsible for creating animated “crowds” of scurrying rats (
+Ratatouille
+), free-falling spaceship passengers (
+Wall•E
+), and trash-talking dogs (
+Up
+).
+From a tech perspective, his job is all about harnessing computer apps to plot the movements of massive gatherings of animated characters. But what makes his animations seem so realistic is how he captures the disparate, individual behaviors that occur within crowds, so that when viewed as a whole the scenes leap off the screen.
+“It comes down to good old-fashioned spectacle,” Kanyuk says. “Crowds are just awe-inspiring.”
+Back in the late ’90s, the technology that would enable such intricate scenes still seemed like the stuff of science fiction—not an actual job. So, when the now 40-year-old Kanyuk first began picturing what a career as an animator might look like, he saw a blank canvas just waiting to be brought to life at the hands of a talented artist. After all, that’s how those Disney classics, from
+Snow White and the Seven Dwarfs
+to
+The Lion King
+, were created—one frame at a time, 24 frames per second.
+“I just assumed people drew everything by hand,” Kanyuk recalls.
+He quickly realized that he had a lot to learn—and much of it was rooted in science and math. Consequently, the self-proclaimed nerd got busy. In 2005, he graduated from the University of Pennsylvania with a bachelor of science in engineering degree in digital media design and minors in fine arts and psychology.
+Kanyuk also continues to add animation apps (Maya, Houdini, and RenderMan, to name a few) and computer programming (C/C++/C#, Python, and Lua) to his ever-expanding resume.
+“It’s like pulling back the curtain on how these movies are made. So, the next time you see a Pixar movie, you’ll experience it in a different way. You’ll realize how many hundreds of people contributed to it, you’ll understand the complexity of the process, and you’ll appreciate how revolutionary the technology truly is.
+“
+–Jason Brown, Henry Buhl, Jr., Director of the Science Center
+Yet he still hasn’t lost his kid-like wonder needed to spark an idea and the brainpower required to transform that idea into movie magic.
+The complex science and art behind Pixar’s animations are now on display in
+The Science Behind Pixar
+, which opened May 25 at Carnegie Science Center. The exhibition reveals the wizardry—or, more accurately, the STEM (science, technology, engineering, and math) skills that have enabled the making of such modern-day classics as
+Toy Story
+,
+A Bug’s Life
+,
+Monsters, Inc.
+,
+Finding Nemo
+(and
+Dory
+),
+The Incredibles
+,
+Cars
+,
+Brave
+,
+Inside Out
+, and
+Coco,
+to name just a few.
+“It’s like pulling back the curtain on how these movies are made,” says Jason Brown, Henry Buhl, Jr., Director of the Science Center and vice president  of Carnegie Museums of Pittsburgh.  “So, the next time you see a Pixar movie, you’ll experience it in a different way. You’ll realize how many hundreds of people contributed to it, you’ll understand the complexity of the process, and you’ll appreciate how revolutionary the technology truly is.”
+Stem Skills of Animation
+The 14,000-square-foot exhibition features larger-than-life 3D models of Buzz Lightyear, Dory, Mike and Sulley, Edna Mode, and Wall•E—who, by the way, are all available  for selfies.
+The exhibition also offers a behind-the-scenes look into Pixar’s creative process. It can take four-plus years to move a project through the nine stages of development—story and art, modeling, rigging, surfaces, sets and cameras, animation, simulation, lighting, and rendering.
+“This exhibit offers people a hands-on opportunity to understand how we make our films,” says Pixar President Jim Morris. “We  use science, technology, engineering, art, and math—along with a significant dash of creativity and fun—and this exhibit is truly a great demonstration of how all those ingredients come together in our filmmaking process.”
+With more than 50 interactive stations, the exhibition invites visitors to work through the STEM-related challenges Pixar artists and creators often encounter.
+The modeling stage, for instance, starts with sketches and clay sculptures. From there, digital modelers make virtual 3D wireframes to define each character’s unique shape. An understanding of anatomy—knowing where bones and muscles are located—is essential for an accurate portrayal.
+The sets-and-cameras phase of the process calls for set designers to serve as the architects who build the virtual environments—that includes every pebble, tree, and structure—from the ground up. Camera artists are the cinematographers. For them, physics becomes a part of the equation as they determine the composition, camera movement, and lens type for each frame.
+Simulation is where scenes start to come alive and look believable. For example, as characters move, so should their hair and clothing. This is where technical directors using physics-based computer programs come into play. Their job is to create the right balance of effects—too much or too little movement will leave viewers thinking something isn’t quite right.
+“The fact that this exhibit even exists shows how much the field has changed,” Kanyuk says. “And I think that’s great. As more people learn, explore, and discover what animation involves, the better able they will be to express themselves through this medium.”
+As long as the machines haven’t taken over the world, it’s the humans who are calling the shots. “
+The Science Behind Pixar
+helps people understand that what they see on screen doesn’t just happen by computers alone,” Brown says. “It’s a human brain, with the assistance of computers, that’s figuring how to make things happen.”
+And that means a lot of trial and error, hit or miss. In other words, the scientific method in practice. You know the drill: Make an observation, form a hypothesis, predict an outcome, conduct an experiment, figure out the results, and repeat until you get it right.
+“Think about the character Merida from
+Brave
+,” Brown adds. “Think about how the animators applied the principles of gravity so that her very long hair moves naturally. When we watch the movie, it looks seamless. But these moments are only accomplished after tremendous amounts of work—after failing fast and failing often.”
+That same philosophy can be applied to the development of the exhibition itself.
+About 10 years ago, Boston’s Museum of Science approached Pixar with the idea of highlighting the science in animation. From concept to completion, the realization of that idea was years in the making. Now, nearly a decade after its debut, the exhibition continues to be popular and relevant, having made stops at nearly 20 museums around the world.
+“We want to inspire the next generation of filmmakers,” says Pixar exhibition designer Brianne Moseley. “We want young people to embrace math and science concepts as a creative endeavor and, if they do, then that might lead to more creative exploration and animation in the future.”
+Continuing To Push Boundaries
+If you think about it, that’s how Pixar got its start. After taking moviegoers on an adventure to a galaxy far, far away,
+Star Wars
+director George Lucas returned to Earth and set his sights on exploring the uncharted territory of computer-generated imagery (CGI). To that end, he established the Computer Division of Lucasfilm in 1979.
+“Art is a technological medium,” Lucas once told Cinemablend, an online news forum for film lovers. “So, a lot of it has to do with engineering and trying to figure out how to create what you imagine.”
+By 1986, another visionary got in on the action. The once and future Apple CEO Steve Jobs purchased the group, and the company was rechristened Pixar Animation Studios.
+For the next few years, Pixar quietly produced short films and television commercials. But in 1991, the company partnered with Disney and took a bold step forward by proclaiming its intent to create the first full-length computer-animated movie.
+“
+This exhibit offers people a hands-on opportunity to understand how we make our films. We use science, technology, engineering, art, and math—along with a significant dash of creativity and fun—and this exhibit is truly a great demonstration of how all those ingredients come together in our filmmaking process.
+“
+–Jim Morris, Pixar President
+Four years later,
+Toy Story
+hit the big screen, and the world was forever changed. Opening No. 1 at the box office, the movie went on to become the highest-grossing film of 1995, taking in more than $550 million worldwide.
+Academy Award® nominations for Best Original Song, Best Original Score, and Best Original Screenplay (the first time an animated film was recognized for screenwriting) followed. In 2006, the Walt Disney Company purchased Pixar.
+Today, Pixar is still promising to take moviegoers—and, thanks to exhibitions like
+The Science Behind Pixar
+, museumgoers—to infinity and beyond.
+“Both this show and the Science Center are talking about STEM,” Brown says. “STEM isn’t just engineering and isn’t just math; it’s a blending of science, aesthetics, and design. It’s critical thinking. It’s problem-solving in the real world. And it’s the perfect embodiment of our mission here at the Science Center. Our goal is to connect people and science and inspire a curiosity that will endure for a lifetime.”
+A lifetime of learning can start when you least expect.
+“We want people to continue the conversation long after they leave the building,” Brown continues. “We want them to say, ‘Wow, maybe I could do that, maybe that’s a job for me.’ Maybe they’ll go home and look for some free software to see what they can create. Maybe they’ll realize that even if they want to be an artist, mathematics is important.”
+That’s something Kanyuk can relate to. “If I knew that math and science would have helped me make beautiful art and imagery, I would have paid more attention when I was young,” he says.
+Now he has another reason to appreciate the exhibition. “I just had my first kid, and taking him to the [exhibition] would just be the coolest way to explain to him what his dad does for a living.”
+Sponsored by Pepsi and Eat’n Park.
+The Science Behind Pixar
+was developed by the Museum of Science, Boston in collaboration with Pixar Animation Studios. © Disney/Pixar. All Rights Reserved. Used Under Authorization. ©Disney/Pixar
+Receive more stories in your email
+Sign up
+Tags:
+STEM
+Where Art & Science Meet
+Carnegie Museum of Art
+Carnegie Science Center
+Carnegie Museum of Natural History
+The Andy Warhol Museum
+Facebook
+Instagram
+Twitter
+LinkedIn
+Things to Do
+Visit
+Join &
+Support
+Event Spaces
+About Us
+Carnegie Magazine
+Accessibility
+Press
+Opportunities
+Connect with our museums
+Social Media, Blogs, Apps & More >
+©2024 Carnegie Museums of Pittsburgh
+Privacy Policy
+Terms of Use
+Non-Discrimination Policy
+Join
+Donate

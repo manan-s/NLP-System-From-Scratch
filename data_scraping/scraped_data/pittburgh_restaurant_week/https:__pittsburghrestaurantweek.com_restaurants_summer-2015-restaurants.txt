@@ -1,0 +1,339 @@
+Summer 2015 Restaurants – Pittsburgh Restaurant Week
+
+Summer 2015 Restaurants – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+Summer 2015 Restaurants
+Restaurants
+Summer 2015 Restaurants
+Preview restaurant week at our exciting Kickoff Party on
+Thursday, August 6
+.
+Visit select restaurants during preview weekend for early specials
+August 7-9.
+Dine across Pittsburgh during Pittsburgh Restaurant Week Summer 2015:
+August 10-16
+.
+Download Printable Restaurant List
+View NEW Restaurant Week Map
+Is this your first time enjoying restaurant week?
+Check out these
+tips for getting the most out of Pittsburgh Restaurant Week
+.
+Register to receive the Pittsburgh Restaurant Week newsletter
+for the latest in PRW news.
+Browse Special Menus
+Narrow Restaurants & Menus
+Neighborhoods:
+Downtown
+|
+Strip District
+|
+Southside
+Early Access
+Outdoor Seating
+Walk-Ins Welcome
+Reserve Online
+Eat Sustainably
+Altius
+Mount Washington
+Andrew's Steak and Seafood
+Northshore
+Arpino Trattoria
+Scott Township
+Asiago's Tuscan Italian Restaurant
+Northshore
+Atria's - Fox Chapel
+Fox Chapel
+Atria's - Mt. Lebanon
+Mt Lebanon
+Atria's - PNC Park
+Northshore
+Avenue B
+Shadyside
+Benjamin's Western Avenue Burger Bar
+Northside
+Bigham Tavern
+Mount Washington
+Bill's Bar and Burger
+Downtown
+Bistro 19
+Mount Lebanon
+Bistro 9101
+North Hills
+Bonefish Grill
+South Hills
+BRGR
+East Liberty
+Butcher and the Rye
+Downtown
+Cafe Chocolade
+Robinson Township
+Cioppino Restaurant & Cigar Bar
+Strip District
+City Oven
+Downtown
+Ditka's Restaurant
+Robinson Township
+Eddie Merlot's
+Downtown
+Eighty Acres Kitchen & Bar
+East Hills
+Grand Concourse Restaurant
+Station Square
+Green Forest Churrascaria
+Penn Hills
+Grit & Grace
+Downtown
+Habitat Restaurant
+Downtown
+Hyde Park Prime Steakhouse
+Northshore
+Ibiza Tapas and Wine Bar
+South Side
+Independent Brewing Company
+Squirrel Hill
+Iron Gate Inn
+Downtown
+Istanbul Sofra
+Regent Square
+Juniper Grill
+North Hills
+Kaleidoscope Cafe
+Lawrenceville
+LeMont Pittsburgh
+Mount Washington
+Lidia's Pittsburgh
+Strip District
+Lola Bistro
+Northside
+Luma
+Mt. Lebanon
+Mallorca
+South Side
+Market St. Grocery
+Downtown
+Marty's Market
+Strip District
+Matteo’s
+Lawrenceville
+McCormick & Schmick's Seafood
+Downtown
+McCormick & Schmick's Seafood
+South Side
+Meat & Potatoes
+Downtown
+Morton's The Steakhouse
+Downtown
+Naya
+Squirrel Hill
+Nine on Nine
+Downtown
+NOLA on the Square
+Downtown
+Olive or Twist
+Downtown
+Osteria 2350
+Strip District
+Pallantia Tapas Y Paella
+Shadyside
+PAN
+Lawrenceville
+Paris 66
+Shadyside
+Pino's Contemporary Italian Kitchen & Wine Bar
+Point Breeze
+Plum Pan Asian Kitchen
+East Liberty
+Proper Brick Oven & Tap Room
+Downtown
+Redbeard's on Sixth Sports Bar & Grill
+Downtown
+Redbeard's on the Mount Sports Bar & Grill
+Mount Washington
+Root 174
+Regent Square
+Rumfish Grille
+Bridgeville
+Ruth's Chris Steak House
+Downtown
+San Lorenzo Ristorante
+Lawrenceville
+Sarafino's
+Crafton
+Sausalido
+Bloomfield
+SAVOY
+Strip District
+Senti Restaurant
+Lawrenceville
+Seviche
+Downtown
+Six Penn Kitchen
+Downtown
+Sonoma Grille
+Downtown
+Spoon
+East Liberty
+täkō
+Downtown
+Ten Penny
+Downtown
+Terrace Room
+Downtown
+Texas De Brazil
+Station Square
+The Capital Grille
+Downtown
+The Carlton
+Downtown
+The Porch at Schenley
+Oakland
+The Tuscan Inn
+North Hills
+The Twisted Frenchman
+East Liberty
+The Wooden Nickel
+Monroeville
+Trapuzzano's Italian Chophouse
+Shadyside
+Union Pig & Chicken
+East Liberty
+Verde Mexican Kitchen & Cantina
+Garfield
+Willow
+North Hills
+Wine Bar at Market St. Grocery
+Downtown
+Additional restaurants participating in Pittsburgh Restaurant Week (menus not yet provided):
+Altius
+Andrew's Steak and Seafood
+Arpino Trattoria
+Asiago's Tuscan Italian Restaurant
+Atria's - Fox Chapel
+Atria's - Mt. Lebanon
+Atria's - PNC Park
+Avenue B
+Bar Marco
+Benjamin's Western Avenue Burger Bar
+Bigham Tavern
+Bill's Bar and Burger
+Bistro 19
+Bistro 9101
+Bonefish Grill
+BRGR
+Butcher and the Rye
+Cafe Chocolade
+Cioppino Restaurant & Cigar Bar
+City Oven
+Ditka's Restaurant
+Eddie Merlot's
+Eighty Acres Kitchen & Bar
+Grand Concourse Restaurant
+Green Forest Churrascaria
+Grit & Grace
+Habitat Restaurant
+Hyde Park Prime Steakhouse
+Ibiza Tapas and Wine Bar
+Independent Brewing Company
+Iron Gate Inn
+Istanbul Sofra
+James Street Gastropub & Speakeasy
+Juniper Grill
+Kaleidoscope Cafe
+LeMont Pittsburgh
+Lidia's Pittsburgh
+Lola Bistro
+Luma
+Mallorca
+Market St. Grocery
+Marty's Market
+Matteo’s
+McCormick & Schmick's Seafood
+McCormick & Schmick's Seafood
+Meat & Potatoes
+Morton's The Steakhouse
+Naya
+Nine on Nine
+NOLA on the Square
+Olive or Twist
+Osteria 2350
+Pallantia Tapas Y Paella
+PAN
+Paris 66
+Pino's Contemporary Italian Kitchen & Wine Bar
+Plum Pan Asian Kitchen
+Proper Brick Oven & Tap Room
+Redbeard's on Sixth Sports Bar & Grill
+Redbeard's on the Mount Sports Bar & Grill
+Root 174
+Rumfish Grille
+Ruth's Chris Steak House
+San Lorenzo Ristorante
+Sarafino's
+Sausalido
+SAVOY
+Senti Restaurant
+Seviche
+Six Penn Kitchen
+Sonoma Grille
+Spoon
+täkō
+Ten Penny
+Terrace Room
+Texas De Brazil
+The Capital Grille
+The Carlton
+The Livermore
+The Porch at Schenley
+The Tuscan Inn
+The Twisted Frenchman
+The Wooden Nickel
+Trapuzzano's Italian Chophouse
+Union Pig & Chicken
+Verde Mexican Kitchen & Cantina
+Vivo Kitchen
+Willow
+Wine Bar at Market St. Grocery
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

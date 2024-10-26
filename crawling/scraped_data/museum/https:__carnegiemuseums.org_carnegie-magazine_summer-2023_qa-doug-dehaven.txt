@@ -1,0 +1,218 @@
+Q+A: Doug DeHaven - Carnegie Magazine
+
+Q+A: Doug DeHaven - Carnegie Magazine
+Become a Member
+Reserve Tickets
+Donate Now
+Plan Your Visit
+Plan Your Visit
+Things to Do
+Shop Our Stores
+View Our Exhibitions
+Explore Our Collections
+Learn With Us
+Calendar
+Plan a Visit
+Members
+Become a Member
+Member Events
+Member Benefits
+Member FAQs
+Reciprocal Privileges
+Join & Support
+Membership
+Support
+Free Teen Membership
+Community Access Memberships
+Young Professionals
+Corporate Giving
+Planned Giving
+Great Event Spaces
+Carnegie Museums in Oakland
+Carnegie Science Center
+The Andy Warhol Museum
+Weddings at the Museums
+Contact Us
+Carnegie magazine
+Topics
+Art
+Science & Nature
+Facetime Q&A
+Behind the Scenes
+The Inclusive Museum
+Community
+STEM
+Carnegie International
+Where Art & Science Meet
+Current Issue
+Archive
+Subscribe
+Advertise
+Contact Us
+About Us
+Our History
+Our Museums
+Our Mission and Core Values
+Our Impact
+Our Leaders
+Opportunities
+Contact Us
+Search site
+Things to Do
+Shop Our Stores
+View Our Exhibitions
+Explore Our Collections
+Learn With Us
+Calendar
+Plan a Visit
+Members
+Become a Member
+Member Events
+Member Benefits
+Member FAQs
+Reciprocal Privileges
+Join & Support
+Membership
+Support
+Free Teen Membership
+Community Access Memberships
+Young Professionals
+Corporate Giving
+Planned Giving
+Great Event Spaces
+Carnegie Museums in Oakland
+Carnegie Science Center
+The Andy Warhol Museum
+Weddings at the Museums
+Contact Us
+Carnegie magazine
+Topics
+Art
+Science & Nature
+Facetime Q&A
+Behind the Scenes
+The Inclusive Museum
+Community
+STEM
+Carnegie International
+Where Art & Science Meet
+Current Issue
+Archive
+Subscribe
+Advertise
+Contact Us
+About Us
+Our History
+Our Museums
+Our Mission and Core Values
+Our Impact
+Our Leaders
+Opportunities
+Contact Us
+Topics
+Art
+Science & Nature
+Face Time Q&A
+Behind the Scenes
+The Inclusive Museum
+Community
+STEM
+Carnegie International
+Where Art & Science Meet
+Current Issue
+Archive
+Subscribe
+Advertise
+Contact Us
+Q+A: Doug DeHaven
+In conversation with the mechatronics engineer at Carnegie Science Center.
+By Sally Quinn
+Facetime Q&A
+|
+Science & Nature
+|
+STEM
+|
+Carnegie Magazine
+Print
+Share
+Tweet
+Share
+Email
+|
+Text
+Size:
+A
+A
+A
+You May Also Like
+Facetime Q&A
+|
+Science & Nature
+Q+A: Kathy Hollis
+Facetime Q&A
+|
+Science & Nature
+Q+A: Hope Gillespie
+Facetime Q&A
+|
+Warhol
+Q+A: Grace Marston
+Photo: John Schisler
+As the mechatronics engineer at Carnegie Science Center, Doug DeHaven is a in-house Mr. Fix-It, as well as the creative mind behind many of its popular interactive exhibits. He built what is likely the world’s largest binary flip clock using commonplace items like IKEA shelf brackets and fire alarm boxes. He created the world’s biggest sound-activated Button Wall, where kids hit 200 different buttons to produce sounds, requiring 5,740 wire terminations that he installed by hand.
+A 20-year veteran at the ripe old age of 40, DeHaven set his sights on the Science Center early in his career, first as a volunteer—always high-energy, with an infectious excitement about his work. “I love science and technology,” he says. “I’m passionate about this crazy stuff. And that’s what inspires me to create new exhibits here.”
+Q:
+How did you come up with the binary flip clock?
+A:
+They wanted art for this wall and an artist would be really expensive, so they tasked me to come up with something. We did the engineering on it and we figured it out.
+The fun part was I had to write a custom algorithm for it. If all the clock flips over, all digits at midnight, it would overload the power supply. So each tile has a slight delay to the start of the flip. The result is an undulating wave up the wall as all the tiles flip in sequence.
+Q: What did it take to get a job like this?
+A:
+My background started in my senior year robotics class at North Hills High School. They had a little mobile robot I started playing around with. Apparently, I was coming up with really good ideas for it. When the owners of the company were servicing it, they wanted to know if I wanted a job. I got hired right out of high school. But I decided I wanted to go to school and learn more. I went for one year of college and could not stand it. I realized I’m a hands-on learner and I decided I would take jobs to learn everything I wanted to know.
+Q:
+From working jobs in engineering, manufacturing, and robotics, the Science Center caught your eye. How did that develop into your dream job?
+A:
+I applied and they had no positions available, so I worked as a volunteer for a year. They loved me so much as a volunteer they hired me on as a full-time presenter. Then I got hired into the tech department. Finally, I worked as an  specialist. Then I was into the development of
+roboworld
+® as eventual head of robotics. After doing that, I started developing exhibits in other areas and helping make previous exhibits better, so they wanted me in the design department. I ended up creating my own dream position of mechatronics working in [computer-aided design]mechanical engineering, software development, and electronics—allowing me to leverage all my experience from many of my previous jobs.
+Q:
+Kids can be tough on equipment. How have you learned to keep interactives operating correctly?
+A:
+Kids are the best product testers. If it’s meant to be pushed, they’ll twist it. If it’s meant to be twisted, they’ll push it. They will literally break steel from just repeated touching. Material science has really become our world. We have to figure out how it is going to hold up to kids. Is it going to be safe if it does fail? We have to look at other industries. The joysticks we use, for example. We were buying arcade ones and kids were breaking them. Now, we’re buying ones made for industrial cranes, and those hold up better.
+Q:
+The basketball robot has been a big challenge over the years. What happened to the first one?
+A:
+The original was created in partnership with the Science Center in 1996 by Henry Thorne, the entrepreneur who went on to create 4moms baby products. He was the owner of the robot company that hired me out of high school. He programmed the basketball robot. It had developed flaky memory chips and had no hard drive in it. Anytime there was a big power outage it would lose everything, including the operating system. You had to load nine floppy disks’ worth of software back into the memory. You had to reconfigure everything back by hand. It was an adventure.
+It survived for only one more year after that. Its memory got so bad it would forget where it was. When a robot weighs 6,000 pounds, you don’t want it to forget where it is. It would be moving and then it would slam into the floor and leave a giant hole. One day we had a call from presenters who were freaking out: “The robot is throwing the floor!” as a large chunk of floor was being dragged about. At that point, we knew it was time for a new robot.
+Receive more stories in your email
+Sign up
+Tags:
+Facetime Q&A
+Science & Nature
+STEM
+Carnegie Museum of Art
+Carnegie Science Center
+Carnegie Museum of Natural History
+The Andy Warhol Museum
+Facebook
+Instagram
+Twitter
+LinkedIn
+Things to Do
+Visit
+Join &
+Support
+Event Spaces
+About Us
+Carnegie Magazine
+Accessibility
+Press
+Opportunities
+Connect with our museums
+Social Media, Blogs, Apps & More >
+©2024 Carnegie Museums of Pittsburgh
+Privacy Policy
+Terms of Use
+Non-Discrimination Policy
+Join
+Donate

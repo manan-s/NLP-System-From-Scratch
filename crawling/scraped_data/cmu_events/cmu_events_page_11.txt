@@ -1,0 +1,502 @@
+[
+    {
+        "Title": "University Closed",
+        "Date": "December 28, 2024",
+        "Location": "",
+        "Start Time": "December 28, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 29, 2024",
+        "Location": "",
+        "Start Time": "December 29, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 29, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 29, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "December 29, 2024",
+        "Location": "",
+        "Start Time": "December 29, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 30, 2024",
+        "Location": "",
+        "Start Time": "December 30, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 30, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 30, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "December 30, 2024",
+        "Location": "",
+        "Start Time": "December 30, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "University Closed",
+        "Date": "December 30, 2024",
+        "Location": "",
+        "Start Time": "December 30, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 31, 2024",
+        "Location": "",
+        "Start Time": "December 31, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 31, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 31, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "December 31, 2024",
+        "Location": "",
+        "Start Time": "December 31, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "New Year\u2019s Eve",
+        "Date": "December 31, 2024",
+        "Location": "",
+        "Start Time": "December 31, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "University Closed",
+        "Date": "December 31, 2024",
+        "Location": "",
+        "Start Time": "December 31, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "January 01, 2025",
+        "Location": "",
+        "Start Time": "January 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "January 01, 2025",
+        "Location": "",
+        "Start Time": "January 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 01, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "New Year\u2019s Day",
+        "Date": "January 01, 2025",
+        "Location": "",
+        "Start Time": "January 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "University Closed",
+        "Date": "January 01, 2025",
+        "Location": "",
+        "Start Time": "January 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "January 02, 2025",
+        "Location": "",
+        "Start Time": "January 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "University Closed",
+        "Date": "January 02, 2025",
+        "Location": "",
+        "Start Time": "January 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 02, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 03, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 03, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 04, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 04, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 05, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 05, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "(Men\u2019s Basketball) Dickinson vs. Carnegie Mellon",
+        "Date": "January 06, 2025",
+        "Location": "",
+        "Start Time": "January 06, 2025, 02:00 PM",
+        "End Time": "January 06, 2025, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Fall Deans\u2019 Lists Posted",
+        "Date": "January 06, 2025",
+        "Location": "",
+        "Start Time": "January 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Feast of the Epiphany / D\u00eda de los Reyes / Theophany of our Lord",
+        "Date": "January 06, 2025",
+        "Location": "",
+        "Start Time": "January 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 06, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 07, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 07, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 08, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 08, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 09, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 09, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 10, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 10, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Carnegie Mellon Chamber Series: Vadim Gluzman @ CMU!",
+        "Date": "January 11, 2025",
+        "Location": "Kresge Theatre, College of Fine Arts @ 5000 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States",
+        "Start Time": "January 11, 2025, 07:30 PM",
+        "End Time": "January 11, 2025, 09:30 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 11, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 11, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 12, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 12, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "First Day of Classes",
+        "Date": "January 13, 2025",
+        "Location": "",
+        "Start Time": "January 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 13, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 14, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 14, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Mahayana New Year",
+        "Date": "January 14, 2025",
+        "Location": "",
+        "Start Time": "January 14, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 15, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 15, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 16, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 16, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 17, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 17, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Mini-3 add, audit &amp; tuition adjustment drop deadline",
+        "Date": "January 17, 2025",
+        "Location": "",
+        "Start Time": "January 17, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(M. Swimming and Diving) CMU Time Trials",
+        "Date": "January 18, 2025",
+        "Location": "",
+        "Start Time": "January 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(W. Swimming and Diving) CMU Time Trials",
+        "Date": "January 18, 2025",
+        "Location": "",
+        "Start Time": "January 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 18, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 19, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 19, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "January 20, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "January 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Martin Luther King Day; No Classes &amp; University Closed",
+        "Date": "January 20, 2025",
+        "Location": "",
+        "Start Time": "January 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Martin Luther King, Jr. Day",
+        "Date": "January 20, 2025",
+        "Location": "",
+        "Start Time": "January 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    }
+]

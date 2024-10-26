@@ -1,0 +1,528 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Los Angeles Dodgers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Los Angeles Dodgers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-02T13:00:00-04:00",
+    "endDate": "2025-09-02T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Los Angeles Dodgers at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/los-angeles-dodgers-los-angeles-dodgers-at-pittsburgh-pirates-sep-02-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Los Angeles Dodgers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Los Angeles Dodgers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Los Angeles Dodgers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Los Angeles Dodgers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-03T13:00:00-04:00",
+    "endDate": "2025-09-03T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Los Angeles Dodgers at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/los-angeles-dodgers-los-angeles-dodgers-at-pittsburgh-pirates-sep-03-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Los Angeles Dodgers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Los Angeles Dodgers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Los Angeles Dodgers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Los Angeles Dodgers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-04T13:00:00-04:00",
+    "endDate": "2025-09-04T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Los Angeles Dodgers at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/los-angeles-dodgers-los-angeles-dodgers-at-pittsburgh-pirates-sep-04-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Los Angeles Dodgers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Los Angeles Dodgers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Milwaukee Brewers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Milwaukee Brewers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-05T13:00:00-04:00",
+    "endDate": "2025-09-05T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Milwaukee Brewers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/milwaukee-brewers-milwaukee-brewers-at-pittsburgh-pirates-sep-05-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Milwaukee Brewers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Milwaukee Brewers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Milwaukee Brewers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Milwaukee Brewers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-06T13:00:00-04:00",
+    "endDate": "2025-09-06T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Milwaukee Brewers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/milwaukee-brewers-milwaukee-brewers-at-pittsburgh-pirates-sep-06-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Milwaukee Brewers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Milwaukee Brewers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Milwaukee Brewers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Milwaukee Brewers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-07T13:00:00-04:00",
+    "endDate": "2025-09-07T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Milwaukee Brewers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/milwaukee-brewers-milwaukee-brewers-at-pittsburgh-pirates-sep-07-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Milwaukee Brewers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Milwaukee Brewers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago Cubs at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Chicago Cubs event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-15T13:00:00-04:00",
+    "endDate": "2025-09-15T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago Cubs at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-cubs-chicago-cubs-at-pittsburgh-pirates-sep-15-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago Cubs"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago Cubs",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago Cubs at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Chicago Cubs event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-16T13:00:00-04:00",
+    "endDate": "2025-09-16T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago Cubs at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-cubs-chicago-cubs-at-pittsburgh-pirates-sep-16-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago Cubs"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago Cubs",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago Cubs at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Chicago Cubs event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-17T13:00:00-04:00",
+    "endDate": "2025-09-17T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago Cubs at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-cubs-chicago-cubs-at-pittsburgh-pirates-sep-17-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago Cubs"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago Cubs",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Athletics at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Oakland Athletics event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-19T13:00:00-04:00",
+    "endDate": "2025-09-19T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Athletics at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/oakland-athletics-athletics-at-pittsburgh-pirates-sep-19-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Oakland Athletics"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Oakland Athletics",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Athletics at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Oakland Athletics event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-20T13:00:00-04:00",
+    "endDate": "2025-09-20T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Athletics at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/oakland-athletics-athletics-at-pittsburgh-pirates-sep-20-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Oakland Athletics"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Oakland Athletics",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Athletics at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Oakland Athletics event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-09-21T13:00:00-04:00",
+    "endDate": "2025-09-21T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Athletics at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:07+00:00",
+            "url": "https://pittsburgh.events/dates/oakland-athletics-athletics-at-pittsburgh-pirates-sep-21-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Oakland Athletics"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Oakland Athletics",
+        "url": "https://pittsburgh.events"
+    }
+}
+

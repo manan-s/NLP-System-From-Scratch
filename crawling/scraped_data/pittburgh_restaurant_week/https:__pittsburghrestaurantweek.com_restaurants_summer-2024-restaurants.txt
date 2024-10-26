@@ -1,0 +1,227 @@
+Summer 2024 Restaurants – Pittsburgh Restaurant Week
+
+Summer 2024 Restaurants – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+Summer 2024 Restaurants
+Restaurants
+Summer 2024 Restaurants
+Pittsburgh Restaurant Week Summer 2024 • August 12-18
+Early Access Weekend: August 9-11
+Outdoor Dining • Reservations Recommended
+Restaurant Week Tips
+MAKE RESERVATIONS.
+Most locations accept reservations during restaurant week to streamline their customer service. For restaurants that do not offer online reservations, call to inquire about a dining time.
+MENTION RESTAURANT WEEK.
+When being seated and offered menus, ensure to mention Pittsburgh Restaurant Week to the waitstaff to ensure you are getting the correct menus and pricing.
+GRATUITIES APPRECIATED.
+Waitstaff handle a surge of customers during restaurant week and many of the special menus are multiple courses that would have been priced higher if ordered a la carte. If you are able, consider gratuities that take into account the original pricing and extra effort to perfect a multi-course service.
+Browse Special Menus
+Narrow Restaurants & Menus
+Neighborhoods:
+Downtown
+|
+Strip District
+|
+Southside
+Early Access
+Outdoor Seating
+Walk-Ins Welcome
+Reserve Online
+Eat Sustainably
+Bae Bae's Kitchen
+$21.24 Meal
+Downtown
+The Beerhive
+$20.24 Dinner
+Strip District
+Bonfire food & drink
+$45.24 Dinner
+Southside
+Cadence+ Cellars Speakeasy
+$34.24 Dinner
+Strip District
+Café Momentum
+$45.24 Dinner
+Downtown
+Cafe Notte
+$45.24 Dinner
+North Hills
+Carmella's Plates and Pints
+$45.24 Dinner
+South Side
+Christian James Restaurant
+$45.24 Dinner
+Downtown
+Coast and Main Seafood and Chophouse
+$45.24 Dinner & $25.24 Brunch
+East/Monroeville
+The Coxcomb
+$20.24 Specialties
+Murrysville
+Del Frisco’s Double Eagle Steakhouse
+$45.24 Lunch or Dinner
+Downtown
+Eddie Merlot's Steakhouse
+$45.24 Dinner
+Downtown
+EYV Restaurant
+$45.24 Dinner
+North Side
+Fogo de Chão Brazilian Steakhouse
+$39.24 Dinner
+Downtown
+Franklin Inn Mexican Restaurant
+$35.24 - $40.24 Dinner
+North Hills
+Fujiya Ramen
+$29.24 Lunch or Dinner
+Shadyside
+Garbarino's
+$36.24 Dinner
+East Liberty
+Grand Concourse Restaurant
+$29.24 Lunch / $45.24 Dinner
+Station Square
+Hofbrauhaus
+$24.24 Lunch or Dinner
+Southside
+Hyde Park Prime Steakhouse
+$45.24 Dinner
+Northshore
+Khalil's Middle Eastern Restaurant
+$24.24 Dinner For One / $45.24 Dinner For Two / $24.24 Brunch
+Oakland/Bloomfield
+La Palapa Mexican Kitchen & Mezcal Bar
+$26.24 Dinner
+Southside
+LeMont Pittsburgh
+$45.24 Dinner
+Mount Washington
+Luma
+$45.24 Dinner
+South/Mt. Lebanon
+Mary's Vine
+$45.24 Dinner & $45.24 Sunday Brunch
+Rankin
+McCormick & Schmick's
+$25.24 Lunch & $45.24 Dinner
+Downtown
+Melting Pot
+$42.24 Lunch or Dinner
+Station Square
+Mitchell's Fish Market
+$25.24 Lunch / $45.24 Dinner
+South/Mt. Lebanon
+Morton's The Steakhouse
+$45.24 Dinner
+Downtown
+Muddy Waters Oyster Bar
+$45.24 Dinner
+East Liberty
+Over Eden
+$38.24 Dinner
+Lawrenceville
+Pane è Pronto
+$22.24 Specialty
+Strip District
+Paris 66
+$45.24 Dinner
+East Liberty/Shadyside
+Pizzeria Davide
+$20.24 Specialty
+Strip District
+Revival on Lincoln
+$45.24 Dinner
+North/Bellevue
+Rivers Club
+$24.24 Lunch & $39.24 Dinner
+Downtown
+Roman Bistro
+$24.24 Lunch / $45.24 Dinner
+East/Forest Hills
+Scratch & Co
+$40.24 Dinner
+Troy Hill
+Senti Restaurant
+$45.24 Dinner
+Lawrenceville
+Social House
+$45.24 Dinner
+Downtown
+Steel Mill Saloon
+$38.24 Dinner
+Mount Washington
+Sullivan's Steakhouse
+$45.25 Dinner
+Downtown
+Sultry F&B
+$45.24 Dinner
+Southside
+Atarashi
+$20.24 Lunch or Dinner
+Oakland
+Sushi Tomo
+$30.24 Lunch or Dinner
+North Hills
+The Commoner
+$45.24 Dinner
+Downtown
+The Library On Carson
+$30.24 Dinner
+Southside
+The Porch at Schenley
+$20.24 Special
+Oakland
+The Porch at Siena
+$20.24 Special
+South/Upper St. Clair
+The Standard Market and Pint House
+$20.24 Entrees
+Downtown
+The Vandal
+$45.24 Dinner
+Lawrenceville
+Additional restaurants participating in Pittsburgh Restaurant Week (menus not yet provided):
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

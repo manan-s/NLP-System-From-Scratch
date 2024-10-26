@@ -1,0 +1,127 @@
+Blue Sky Kitchen & Bar – Pittsburgh Restaurant Week
+
+Blue Sky Kitchen & Bar – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+Blue Sky Kitchen & Bar
+Winter 2024 Restaurants
+Blue Sky Kitchen & Bar
+ADDRESS
+211 N Whitfield St, Pittsburgh, PA 15206 (
+Map
+)
+PHONE
+(412) 941-1232
+NEIGHBORHOOD
+East Liberty
+WEBSITE
+eatbluesky.com
+MENU STARTS EARLY
+RESERVE ON OPENTABLE
+WALK-INS WELCOME
+Restaurant Week Special:
+$20.24 Lunch or Dinner
+Buy two of any of handcrafted sandwiches, salads or brunch items for $20.24
+SANDWICHES
+Hot Honey Fried Chicken
+Crispy fried chicken, hot honey, lettuce, tomato, pickles, on Brioche
+Chicken Club
+Grilled Chicken, Thick Cut Bacon, Sharp Provolone, Tomato, Arugula, Smashed Avocado, Garlic Aioli on Baguette
+Cheese Burger
+Cooked to Order Angus Prime Burger, Choice of Cheese, with Lettuce, Tomato, House Pickles, Onion and Blue Sky Sauce
+French Dip
+Thin Sliced House Roasted NY Strip, Sharp Provolone, Gruyere, Caramelized Onions, Garlic Aioli on Baguette, Side of Au Jus
+Roasted Vegan (V)
+Roasted Cauliflower, Spinach, Vegan Mozzarella, Roasted Red Peppers, Crispy Shallots, Caramelized Onions, Crushed Cashews, Chipotle Romesco, Wheat Wrap
+Bahn Mi
+House Roast Pork, Cucumber, Pickled Red Onion, Jalapeno, Cilantro, Sriracha and Thai Aioli on Baguette
+Chimichurri Cheesesteak
+Thin Sliced NY Strip, Sharp Provolone, Roasted Red Peppers, Caramelized Onions, Garlic Aioli and Chimichurri on Baguette
+California Roast Turkey
+House Roast Turkey, Whipped Goat Cheese, smashed avocado, tomato, roasted red peppers, pickled veggies, arugula, wheat wrap
+Bacon Mushroom Swiss Burger
+Cooked to order angus prime burger, gruyere, sauteed mushrooms, caramelized onions, arugula, tomato, garlic aioli
+New Yorker
+Acme smoked salmon, scallion cream cheese, tomato, pickled red onion, on a Brooklyn born everything bagel
+SALADS
+Cobb
+Romaine, Grilled Chicken, Bacon, Avocado, Grape Tomato, Egg, and Crumbled Blue Cheese with Ranch
+Salmon Caesar
+Romaine, grilled Cajun or Plain salmon, Crispy Prosciutto, Asiago, Shaved Parm, Croutons with Caesar Dressing
+Strawberry
+Mixed Greens, Grilled Chicken, Strawberries, Whipped Goat Cheese, Candied Walnuts with Balsamic Vinaigrette
+Summer Veggie
+Mixed Greens, Roasted Cauliflower, Carrots, Pickled Beets, Avocado, Candied Walnuts, Whipped Goat Cheese with Balsamic Vinaigrette
+PGH Salad
+Romaine, Grilled Chicken, Sharp Cheddar, Grape Tomato, Cucumber, Slaw, Fries with Ranch
+Caribbean
+Romaine, Jerk Seasoned Grilled Shrimp, Mango Salsa, Avocado, Pepperjack, Fried Plantain with Honey Lime Dressing
+BRUNCH
+Chix & Waffles
+Fried Chicken on a Pearl Sugar Belgium Waffle, Hot Honey, Sunny Side Up Egg, Green Onions
+Brunch Burger
+Angus Burger, Sunny Side Up Egg, Bacon, American Cheese, Lettuce, Tomato, Onion, Pickle, Blue Sky Sauce on Brioche with Fries
+Grilled Cheese BLT
+American, Bacon Jam, Fried Egg, Arugula, Tomato, on Sourdough with a Side of Dressed Greens
+PBEC
+Bacon, Over Easy Egg, Cheddar, Sriracha Ketchup on Brioche with a Side of Dressed Greens
+Chimichurri Cheese Steak & Egg
+Thin Sliced NY Strip, Sharp Provolone, Roasted Red Peppers, Carmelized Onions, Over Easy Egg, Garlic Aioli, and Chimichurri on a Baguette with a Side of Dressed Greens
+Spinach & Mushroom Omelet
+Sherry Glazed Mushrooms, Sauteed Spinach, Carmelized Onions, Gruyere with a Side of Dressed Greens
+Breakfast Casserole
+Egg, Cheddar, Sausage, Veggies, with a Side of Dressed Greens
+Caramel Apple French Toast
+Brioche, Caramel Apple, Whipped Cream
+Veggie Breakfast Wrap
+Egg, Roasted Cauliflower, Spinach, Roasted Red Peppers, Caramelized Onions, Mozzarella, Crispy Shallots, Chipotle Romesco, Wheat Wrap, with a Side of Dressed Greens
+Biscuit and Gravy
+Homemade Buttermilk Biscuit, Breakfast Sausage Gravy, Over Easy Egg, Scallion
+New Yorker
+Smoked Salmon, Scallion Cream Cheese, Tomato, Pickled Red Onion on a Brooklyn Born Everything Bagel with a Side of Dressed Greens
+Sausage & Bacon Omelet
+Sausage, Bacon, Caramelized Onions, Cheddar, with a Side of Dressed Greens
+Available for dine-in only. Not available for online, takeout or to-go orders.
+ADVERTISEMENT
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

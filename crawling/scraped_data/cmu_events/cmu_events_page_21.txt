@@ -1,0 +1,502 @@
+[
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 10, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 10, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 10, 2025",
+        "Location": "",
+        "Start Time": "May 10, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 11, 2025",
+        "Location": "",
+        "Start Time": "May 11, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Commencement",
+        "Date": "May 11, 2025",
+        "Location": "",
+        "Start Time": "May 11, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 11, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 11, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 11, 2025",
+        "Location": "",
+        "Start Time": "May 11, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 12, 2025",
+        "Location": "",
+        "Start Time": "May 12, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 12, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 12, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 12, 2025",
+        "Location": "",
+        "Start Time": "May 12, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer Session All, One &amp; Mini-5 Classes Begin",
+        "Date": "May 12, 2025",
+        "Location": "",
+        "Start Time": "May 12, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 13, 2025",
+        "Location": "",
+        "Start Time": "May 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Final Grades Due by 4 pm",
+        "Date": "May 13, 2025",
+        "Location": "",
+        "Start Time": "May 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 13, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 13, 2025",
+        "Location": "",
+        "Start Time": "May 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 14, 2025",
+        "Location": "",
+        "Start Time": "May 14, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 14, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 14, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 14, 2025",
+        "Location": "",
+        "Start Time": "May 14, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 15, 2025",
+        "Location": "",
+        "Start Time": "May 15, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 15, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 15, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 15, 2025",
+        "Location": "",
+        "Start Time": "May 15, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 16, 2025",
+        "Location": "",
+        "Start Time": "May 16, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 16, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 16, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 16, 2025",
+        "Location": "",
+        "Start Time": "May 16, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 add, audit, &amp; tuition adjustment drop deadline",
+        "Date": "May 16, 2025",
+        "Location": "",
+        "Start Time": "May 16, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 17, 2025",
+        "Location": "",
+        "Start Time": "May 17, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 17, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 17, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 17, 2025",
+        "Location": "",
+        "Start Time": "May 17, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 18, 2025",
+        "Location": "",
+        "Start Time": "May 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 18, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 18, 2025",
+        "Location": "",
+        "Start Time": "May 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 19, 2025",
+        "Location": "",
+        "Start Time": "May 19, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 19, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 19, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 19, 2025",
+        "Location": "",
+        "Start Time": "May 19, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 20, 2025",
+        "Location": "",
+        "Start Time": "May 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 20, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 20, 2025",
+        "Location": "",
+        "Start Time": "May 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Spring Deans\u2019 Lists Posted",
+        "Date": "May 20, 2025",
+        "Location": "",
+        "Start Time": "May 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 21, 2025",
+        "Location": "",
+        "Start Time": "May 21, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 21, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 21, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 21, 2025",
+        "Location": "",
+        "Start Time": "May 21, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 22, 2025",
+        "Location": "",
+        "Start Time": "May 22, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 22, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 22, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 22, 2025",
+        "Location": "",
+        "Start Time": "May 22, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 23, 2025",
+        "Location": "",
+        "Start Time": "May 23, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Declaration of the Bab",
+        "Date": "May 23, 2025",
+        "Location": "",
+        "Start Time": "May 23, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 23, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 23, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 23, 2025",
+        "Location": "",
+        "Start Time": "May 23, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All add, audit, &amp; tuition adjustment drop deadline",
+        "Date": "May 23, 2025",
+        "Location": "",
+        "Start Time": "May 23, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 24, 2025",
+        "Location": "",
+        "Start Time": "May 24, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 24, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 24, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    }
+]

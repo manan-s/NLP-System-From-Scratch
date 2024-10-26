@@ -1,0 +1,1127 @@
+{
+    "header": "Pittsburgh Pirates Schedule for the 2025 Season",
+    "games": [
+        {
+            "date": "2025-03-01",
+            "location": "Ed Smith Stadium",
+            "home_team": "Baltimore Orioles",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-02",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Detroit Tigers"
+        },
+        {
+            "date": "2025-03-03",
+            "location": "George M. Steinbrenner Field",
+            "home_team": "New York Yankees",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-04",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Boston Red Sox"
+        },
+        {
+            "date": "2025-03-05",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Toronto Blue Jays"
+        },
+        {
+            "date": "2025-03-06",
+            "location": "Ed Smith Stadium",
+            "home_team": "Baltimore Orioles",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-07",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Philadelphia Phillies"
+        },
+        {
+            "date": "2025-03-08",
+            "location": "CoolToday Park",
+            "home_team": "Atlanta Braves",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-09",
+            "location": "Publix Field at Joker Marchant Stadium",
+            "home_team": "Detroit Tigers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-10",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Baltimore Orioles"
+        },
+        {
+            "date": "2025-03-11",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Yankees"
+        },
+        {
+            "date": "2025-03-13",
+            "location": "Lee Health Sports Complex",
+            "home_team": "Minnesota Twins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-14",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Detroit Tigers"
+        },
+        {
+            "date": "2025-03-14",
+            "location": "BayCare Ballpark",
+            "home_team": "Philadelphia Phillies Prospects",
+            "away_team": "Pittsburgh Pirates Prospects"
+        },
+        {
+            "date": "2025-03-15",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Baltimore Orioles"
+        },
+        {
+            "date": "2025-03-16",
+            "location": "George M. Steinbrenner Field",
+            "home_team": "New York Yankees",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-17",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Minnesota Twins"
+        },
+        {
+            "date": "2025-03-17",
+            "location": "Publix Field at Joker Marchant Stadium",
+            "home_team": "Detroit Tigers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-18",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Philadelphia Phillies"
+        },
+        {
+            "date": "2025-03-19",
+            "location": "Charlotte Sports Park",
+            "home_team": "Tampa Bay Rays",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-21",
+            "location": "JetBlue Park",
+            "home_team": "Boston Red Sox",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-22",
+            "location": "LECOM Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Baltimore Orioles"
+        },
+        {
+            "date": "2025-03-23",
+            "location": "TD Ballpark",
+            "home_team": "Toronto Blue Jays",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-24",
+            "location": "Lee Health Sports Complex",
+            "home_team": "Minnesota Twins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-27",
+            "location": "loanDepot park",
+            "home_team": "Miami Marlins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-28",
+            "location": "loanDepot park",
+            "home_team": "Miami Marlins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-29",
+            "location": "loanDepot park",
+            "home_team": "Miami Marlins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-30",
+            "location": "loanDepot park",
+            "home_team": "Miami Marlins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-03-31",
+            "location": "Tropicana Field",
+            "home_team": "Tampa Bay Rays",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-01",
+            "location": "Tropicana Field",
+            "home_team": "Tampa Bay Rays",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-02",
+            "location": "Tropicana Field",
+            "home_team": "Tampa Bay Rays",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-04",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Yankees"
+        },
+        {
+            "date": "2025-04-05",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Yankees"
+        },
+        {
+            "date": "2025-04-06",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Yankees"
+        },
+        {
+            "date": "2025-04-07",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "St. Louis Cardinals"
+        },
+        {
+            "date": "2025-04-08",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "St. Louis Cardinals"
+        },
+        {
+            "date": "2025-04-09",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "St. Louis Cardinals"
+        },
+        {
+            "date": "2025-04-11",
+            "location": "Great American Ball Park",
+            "home_team": "Cincinnati Reds",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-12",
+            "location": "Great American Ball Park",
+            "home_team": "Cincinnati Reds",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-13",
+            "location": "Great American Ball Park",
+            "home_team": "Cincinnati Reds",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-14",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Washington Nationals"
+        },
+        {
+            "date": "2025-04-15",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Washington Nationals"
+        },
+        {
+            "date": "2025-04-16",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Washington Nationals"
+        },
+        {
+            "date": "2025-04-17",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Washington Nationals"
+        },
+        {
+            "date": "2025-04-18",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cleveland Guardians"
+        },
+        {
+            "date": "2025-04-19",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cleveland Guardians"
+        },
+        {
+            "date": "2025-04-20",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cleveland Guardians"
+        },
+        {
+            "date": "2025-04-22",
+            "location": "Angel Stadium",
+            "home_team": "Los Angeles Angels",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-23",
+            "location": "Angel Stadium",
+            "home_team": "Los Angeles Angels",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-24",
+            "location": "Angel Stadium",
+            "home_team": "Los Angeles Angels",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-25",
+            "location": "Dodger Stadium",
+            "home_team": "Los Angeles Dodgers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-26",
+            "location": "Dodger Stadium",
+            "home_team": "Los Angeles Dodgers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-27",
+            "location": "Dodger Stadium",
+            "home_team": "Los Angeles Dodgers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-04-29",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago Cubs"
+        },
+        {
+            "date": "2025-04-30",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago Cubs"
+        },
+        {
+            "date": "2025-05-01",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago Cubs"
+        },
+        {
+            "date": "2025-05-02",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "San Diego Padres"
+        },
+        {
+            "date": "2025-05-03",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "San Diego Padres"
+        },
+        {
+            "date": "2025-05-04",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "San Diego Padres"
+        },
+        {
+            "date": "2025-05-05",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-06",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-07",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-09",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Atlanta Braves"
+        },
+        {
+            "date": "2025-05-10",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Atlanta Braves"
+        },
+        {
+            "date": "2025-05-11",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Atlanta Braves"
+        },
+        {
+            "date": "2025-05-12",
+            "location": "Citi Field",
+            "home_team": "New York Mets",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-13",
+            "location": "Citi Field",
+            "home_team": "New York Mets",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-14",
+            "location": "Citi Field",
+            "home_team": "New York Mets",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-16",
+            "location": "Citizens Bank Park",
+            "home_team": "Philadelphia Phillies",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-17",
+            "location": "Citizens Bank Park",
+            "home_team": "Philadelphia Phillies",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-18",
+            "location": "Citizens Bank Park",
+            "home_team": "Philadelphia Phillies",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-19",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-05-20",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-05-21",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-05-22",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-05-23",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-05-24",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-05-25",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-05-26",
+            "location": "Chase Field",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-27",
+            "location": "Chase Field",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-28",
+            "location": "Chase Field",
+            "home_team": "Arizona Diamondbacks",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-30",
+            "location": "Petco Park",
+            "home_team": "San Diego Padres",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-05-31",
+            "location": "Petco Park",
+            "home_team": "San Diego Padres",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-01",
+            "location": "Petco Park",
+            "home_team": "San Diego Padres",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-03",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Houston Astros"
+        },
+        {
+            "date": "2025-06-04",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Houston Astros"
+        },
+        {
+            "date": "2025-06-05",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Houston Astros"
+        },
+        {
+            "date": "2025-06-06",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Philadelphia Phillies"
+        },
+        {
+            "date": "2025-06-07",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Philadelphia Phillies"
+        },
+        {
+            "date": "2025-06-08",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Philadelphia Phillies"
+        },
+        {
+            "date": "2025-06-09",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Miami Marlins"
+        },
+        {
+            "date": "2025-06-10",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Miami Marlins"
+        },
+        {
+            "date": "2025-06-11",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Miami Marlins"
+        },
+        {
+            "date": "2025-06-12",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-13",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-14",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-15",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-17",
+            "location": "Comerica Park",
+            "home_team": "Detroit Tigers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-18",
+            "location": "Comerica Park",
+            "home_team": "Detroit Tigers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-19",
+            "location": "Comerica Park",
+            "home_team": "Detroit Tigers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-20",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Texas Rangers"
+        },
+        {
+            "date": "2025-06-21",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Texas Rangers"
+        },
+        {
+            "date": "2025-06-22",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Texas Rangers"
+        },
+        {
+            "date": "2025-06-23",
+            "location": "American Family Field",
+            "home_team": "Milwaukee Brewers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-24",
+            "location": "American Family Field",
+            "home_team": "Milwaukee Brewers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-25",
+            "location": "American Family Field",
+            "home_team": "Milwaukee Brewers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-06-27",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Mets"
+        },
+        {
+            "date": "2025-06-28",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Mets"
+        },
+        {
+            "date": "2025-06-29",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "New York Mets"
+        },
+        {
+            "date": "2025-06-30",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "St. Louis Cardinals"
+        },
+        {
+            "date": "2025-07-01",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "St. Louis Cardinals"
+        },
+        {
+            "date": "2025-07-02",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "St. Louis Cardinals"
+        },
+        {
+            "date": "2025-07-04",
+            "location": "T-Mobile Park",
+            "home_team": "Seattle Mariners",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-05",
+            "location": "T-Mobile Park",
+            "home_team": "Seattle Mariners",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-06",
+            "location": "T-Mobile Park",
+            "home_team": "Seattle Mariners",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-07",
+            "location": "Kauffman Stadium",
+            "home_team": "Kansas City Royals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-08",
+            "location": "Kauffman Stadium",
+            "home_team": "Kansas City Royals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-09",
+            "location": "Kauffman Stadium",
+            "home_team": "Kansas City Royals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-11",
+            "location": "Target Field",
+            "home_team": "Minnesota Twins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-12",
+            "location": "Target Field",
+            "home_team": "Minnesota Twins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-13",
+            "location": "Target Field",
+            "home_team": "Minnesota Twins",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-15",
+            "location": "Truist Park",
+            "home_team": "National League All-Stars",
+            "away_team": "American League All-Stars"
+        },
+        {
+            "date": "2025-07-18",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago White Sox"
+        },
+        {
+            "date": "2025-07-19",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago White Sox"
+        },
+        {
+            "date": "2025-07-20",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago White Sox"
+        },
+        {
+            "date": "2025-07-21",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Detroit Tigers"
+        },
+        {
+            "date": "2025-07-22",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Detroit Tigers"
+        },
+        {
+            "date": "2025-07-23",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Detroit Tigers"
+        },
+        {
+            "date": "2025-07-25",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Arizona Diamondbacks"
+        },
+        {
+            "date": "2025-07-26",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Arizona Diamondbacks"
+        },
+        {
+            "date": "2025-07-27",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Arizona Diamondbacks"
+        },
+        {
+            "date": "2025-07-28",
+            "location": "Oracle Park",
+            "home_team": "San Francisco Giants",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-29",
+            "location": "Oracle Park",
+            "home_team": "San Francisco Giants",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-07-30",
+            "location": "Oracle Park",
+            "home_team": "San Francisco Giants",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-01",
+            "location": "Coors Field",
+            "home_team": "Colorado Rockies",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-02",
+            "location": "Coors Field",
+            "home_team": "Colorado Rockies",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-03",
+            "location": "Coors Field",
+            "home_team": "Colorado Rockies",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-04",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "San Francisco Giants"
+        },
+        {
+            "date": "2025-08-05",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "San Francisco Giants"
+        },
+        {
+            "date": "2025-08-06",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "San Francisco Giants"
+        },
+        {
+            "date": "2025-08-07",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-08-08",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-08-09",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-08-10",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Cincinnati Reds"
+        },
+        {
+            "date": "2025-08-11",
+            "location": "American Family Field",
+            "home_team": "Milwaukee Brewers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-12",
+            "location": "American Family Field",
+            "home_team": "Milwaukee Brewers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-13",
+            "location": "American Family Field",
+            "home_team": "Milwaukee Brewers",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-15",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-16",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-17",
+            "location": "Wrigley Field",
+            "home_team": "Chicago Cubs",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-18",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Toronto Blue Jays"
+        },
+        {
+            "date": "2025-08-19",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Toronto Blue Jays"
+        },
+        {
+            "date": "2025-08-20",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Toronto Blue Jays"
+        },
+        {
+            "date": "2025-08-22",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Colorado Rockies"
+        },
+        {
+            "date": "2025-08-23",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Colorado Rockies"
+        },
+        {
+            "date": "2025-08-24",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Colorado Rockies"
+        },
+        {
+            "date": "2025-08-25",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-26",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-27",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-28",
+            "location": "Busch Stadium",
+            "home_team": "St. Louis Cardinals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-29",
+            "location": "Fenway Park",
+            "home_team": "Boston Red Sox",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-30",
+            "location": "Fenway Park",
+            "home_team": "Boston Red Sox",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-08-31",
+            "location": "Fenway Park",
+            "home_team": "Boston Red Sox",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-02",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Los Angeles Dodgers"
+        },
+        {
+            "date": "2025-09-03",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Los Angeles Dodgers"
+        },
+        {
+            "date": "2025-09-04",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Los Angeles Dodgers"
+        },
+        {
+            "date": "2025-09-05",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-09-06",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-09-07",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Milwaukee Brewers"
+        },
+        {
+            "date": "2025-09-09",
+            "location": "Oriole Park at Camden Yards",
+            "home_team": "Baltimore Orioles",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-10",
+            "location": "Oriole Park at Camden Yards",
+            "home_team": "Baltimore Orioles",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-11",
+            "location": "Oriole Park at Camden Yards",
+            "home_team": "Baltimore Orioles",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-12",
+            "location": "Nationals Park",
+            "home_team": "Washington Nationals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-13",
+            "location": "Nationals Park",
+            "home_team": "Washington Nationals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-14",
+            "location": "Nationals Park",
+            "home_team": "Washington Nationals",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-15",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago Cubs"
+        },
+        {
+            "date": "2025-09-16",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago Cubs"
+        },
+        {
+            "date": "2025-09-17",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Chicago Cubs"
+        },
+        {
+            "date": "2025-09-19",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Athletics"
+        },
+        {
+            "date": "2025-09-20",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Athletics"
+        },
+        {
+            "date": "2025-09-21",
+            "location": "PNC Park",
+            "home_team": "Pittsburgh Pirates",
+            "away_team": "Athletics"
+        },
+        {
+            "date": "2025-09-23",
+            "location": "Great American Ball Park",
+            "home_team": "Cincinnati Reds",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-24",
+            "location": "Great American Ball Park",
+            "home_team": "Cincinnati Reds",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-25",
+            "location": "Great American Ball Park",
+            "home_team": "Cincinnati Reds",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-26",
+            "location": "Truist Park",
+            "home_team": "Atlanta Braves",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-27",
+            "location": "Truist Park",
+            "home_team": "Atlanta Braves",
+            "away_team": "Pittsburgh Pirates"
+        },
+        {
+            "date": "2025-09-28",
+            "location": "Truist Park",
+            "home_team": "Atlanta Braves",
+            "away_team": "Pittsburgh Pirates"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+Duquesne Incline in Pittsburgh | Visit Pittsburgh
+
+{
+  "@context": "https://schema.org",
+  "@type": "TouristAttraction",
+  "name": "Duquesne Incline",
+  "description": "Enjoy a spectacular panorama of Pittsburgh and its three rivers. Ride to the incline's Observation Deck in the 147-year-old Incline car to see what USA Today Weekend Magazine calls one of the '10 most beautiful views in America'. Historical exhibits in the waiting room entertain between rides. Hours: Daily 6:30 A.M. (morning) to 12:30 A.M. (after midnight)",
+  "image": "https://files.idss.com/C32/048a7c25-af0f-4edb-9f53-43c4b4f8a7f1/c14fe506-01af-46f4-b05a-847197d31fb6.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1197 W. Carson St.",
+    "addressLocality": "Pittsburgh",
+    "addressRegion": "PA",
+    "postalCode": "15219",
+    "addressCountry": "US"
+  },
+  "telephone": "+1-412-381-1665",
+  "url": "https://www.duquesneincline.org",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.439379, 
+    "longitude": -80.017966
+  }
+}
+Duquesne Incline in Pittsburgh | Visit Pittsburgh
+Skip to content
+Newsletter
+Discover Your Persona
+67
+°
+F
+0
+Saved
+Navigation
+Things to Do
+Free Things to Do
+Family Fun
+Tours & Sightseeing
+Outdoor Adventure
+Arts & Culture
+Shopping
+Health & Wellness
+Pittsburgh Sports Teams
+Casinos & Gaming
+Film Festivals
+Events & Festivals
+Submit Your Event
+This Week in Pittsburgh
+Annual Events
+Holiday Events
+Halloween Events
+Film Festivals
+Food Festivals
+Marathons, Runs & Walks
+Pittsburgh Celebrates Juneteenth Freedom Day
+Pittsburgh Black Music Festival
+Hotels & Resorts
+Restaurants & Culinary
+Bars & Nightlife
+Pittsburgh Craft Breweries
+Wineries & Distilleries
+Farms & Farmers Markets
+Plan Your Trip
+Pittsburgh Insiders Guide
+Multi-lingual Brochures
+Beyond Pittsburgh
+Transportation
+Explore Black Culture & Heritage
+LGBTQIA+ Travel in Pittsburgh
+Pet-friendly Travel
+College Visits
+Senior Travel
+Medical Travel
+Accessibility Guide
+Weather
+Welcome Centers
+Newsletter
+Neighborhoods
+Meetings and Events
+Meet in Pittsburgh
+Hotels
+Event Services
+Marketing Toolkit
+Group Tour
+Submit RFP
+Contact Us
+Show Your Badge
+SportsPITTSBURGH
+About SportsPITTSBURGH
+Sports Event Planner
+Sports Facilities
+Calendar of Events
+Sports Event Attendee
+Power of Sports Economy
+Weddings & Reunions
+Media
+Partners
+Discover Your Persona
+Home
+Duquesne Incline
+Website
+Email
+Enjoy a spectacular panorama of Pittsburgh and its three rivers. Ride to the incline's Observation Deck in the 147-year-old Incline car to see what
+USA Today Weekend Magazine
+calls one of the "10 most beautiful views in America". Historical exhibits in the waiting room entertain between rides.
+Hours: Daily 6:30 A.M. (morning) to 12:30 A.M. (after midnight)
+Amenities
+Amenities
+Charged Parking
+Gift Shop
+Group Rates Available
+Motorcoach Parking
+Parking Available
+Save
+Duquesne Incline
+1197 W. Carson St.
+Pittsburgh, Pennsylvania 15219
+Details
+Open in Google Maps
+Map
+Full View
+Duquesne Incline
+1197 W. Carson St.
+Pittsburgh, Pennsylvania 15219
+(412) 381-1665
+Adult Admission
+$2.50 One Way
+Child Admission
+$1.25 (6-11) One Way, under 5 FREE
+Related Video
+Related Stories & Events
+Move-In Day | Pittsburgh College Guide
+Have some Pittsburgh questions while moving your kid into college? You’ve come to the right place.
+Details
+From Pierogies to Primanti’s: A Pittsburgh Itinerary for the Foodie
+With 90 distinct neighborhoods rich with history and culture, finding a restaurant in Pittsburgh can take you to fine dining…
+Details
+Discover Your Pittsburgh Persona
+Urban Adventurer. Techie. Foodie. Which Pittsburgh Persona will you get?
+Details
+Unique Date Nights in Pittsburgh
+Celebrate the one you love with these unique Pittsburgh date night ideas!
+Details
+Plan Your Trip with the new Pittsburgh Insider's Guide
+Learn More
+Contact Us
+Privacy
+Blog
+About Us
+120 Fifth Avenue
+Fifth Avenue Place
+Suite 2800
+Pittsburgh, PA 15222
+(412) 281-7711
+Toll Free: (877) 568-3744
+©️2024 Visit Pittsburgh. All Rights Reserved.
+Privacy Policy
+This site uses cookies to enhance your experience.
+Accept
+Experience Builder
+Quick Search
+Full Search
+Location Map

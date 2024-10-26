@@ -1,0 +1,118 @@
+Rivers Club – Pittsburgh Restaurant Week
+
+Rivers Club – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+Rivers Club
+Summer 2023 Restaurants
+Rivers Club
+ADDRESS
+301 Grant St Suite 411, 
+Pittsburgh, PA 15219 (
+Map
+)
+PHONE
+(412) 391-5227
+WEBSITE
+www.invitedclubs.com/clubs/rivers-club/amenities/dining
+Restaurant Week Special:
+$24.23 Lunch
+FIRST COURSE
+Field Green Salad
+Crispy Goat Rodeo Rosemary chevre / pickled blueberries / smoked grapes / raspberry / champagne vinaigrette
+Thai Melon Soup
+kaffir lime / coconut milk / thai basil / watermelon / cantaloupe / honeydew
+Chopped Vegetable Salad
+Iceberg/ radicchio / frisée / radish / feta / red onion / cucumber / corn kernels / cherry tomato / kalamata olives / creamy Oregano Dressing
+SECOND COURSE
+Braised Chinese Style Short Ribs
+crab fried rice
+Seared Loch Dart Salmon
+shiitake ginger vinaigrette / bok choy
+Lemon Ricotta Ravioli
+swiss chard / portobello / roasted peppers / romanesco / heirloom cherry tomatoes / parmesan cream
+THIRD COURSE
+Flourless Chocolate Cake
+espresso / spiced rum infused cake / chantilly cream fresh berries
+Orange Blossom Zabaglione
+fresh berries
+Mini Chocolate Espresso Crème Brulée
+$39.23 Dinner
+FIRST COURSE
+Field Green Salad
+Crispy Goat Rodeo Rosemary chevre / pickled blueberries / smoked grapes / raspberry / champagne vinaigrette
+Thai Melon Soup
+kaffir lime / coconut milk / thai basil / watermelon / cantaloupe / honeydew
+Chopped Vegetable Salad
+Iceberg/ radicchio / frisée / radish / feta / red onion / cucumber / corn kernels / cherry tomato / kalamata olives / creamy Oregano Dressing
+SECOND COURSE
+Smoked Sea Salt and Black Pepper Seasoned Manhattan Strip Steak
+boursin mashed potato / honey cumin glazed / roasted carrots / port wine reduction
+Gerber Farms Amish Chicken Persillade
+chardonnay whole grain mustard demi-glace / french beans / potato dauphinoise
+Lemon Ricotta Ravioli
+swiss chard / portobello / roasted peppers / romanesco / heirloom cherry tomatoes / parmesan cream
+THIRD COURSE
+McConnell’s Farm Warm Peach Crisp
+vanilla ice cream
+Flourless Chocolate Cake
+espresso / spiced rum infused cake / chantilly cream fresh berries
+Chai Crème Brulée
+Cinnamon Whipped Cream
+SPECIAL COCKTAILS
+BLACKBERRY MOJITO
+Bacardi / blackberry simple syrup / lime / blackberries / mint
+THE STEEL CITY CLIPPER
+High West Bourbon / Aperol / Elderflower liqueur / lemon / orange oil spritz
+WATERMELON PALOMA
+Pink peppercorn infused Espolon Blanco tequila / agave / lime / watermelon juice
+BRULEED BANANA OLD FASHIONED
+Old Overholt Rye / banana simple syrup / toasted almond bitters
+WHITE LINEN
+Hendricks Gin / cucumber simple syrup / lemon / St. Germain
+SAKE-TINI
+Orange blossom infused Hendricks Gin / Gekkeikan Sake / green tea simple syrup / yuzu juice / flower garnish
+Available for dine-in only. Not available for online, takeout or to-go orders.
+ADVERTISEMENT
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

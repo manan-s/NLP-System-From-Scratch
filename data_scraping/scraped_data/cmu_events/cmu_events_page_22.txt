@@ -1,0 +1,462 @@
+[
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 24, 2025",
+        "Location": "",
+        "Start Time": "May 24, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 25, 2025",
+        "Location": "",
+        "Start Time": "May 25, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 25, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 25, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 25, 2025",
+        "Location": "",
+        "Start Time": "May 25, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 26, 2025",
+        "Location": "",
+        "Start Time": "May 26, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 26, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 26, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 26, 2025",
+        "Location": "",
+        "Start Time": "May 26, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Memorial Day; University Closed &amp; No Classes",
+        "Date": "May 26, 2025",
+        "Location": "",
+        "Start Time": "May 26, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 27, 2025",
+        "Location": "",
+        "Start Time": "May 27, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 27, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 27, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 27, 2025",
+        "Location": "",
+        "Start Time": "May 27, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 course drop deadline; withdrawal grade assigned after this date",
+        "Date": "May 27, 2025",
+        "Location": "",
+        "Start Time": "May 27, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 28, 2025",
+        "Location": "",
+        "Start Time": "May 28, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 28, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 28, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 28, 2025",
+        "Location": "",
+        "Start Time": "May 28, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 29, 2025",
+        "Location": "",
+        "Start Time": "May 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 29, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 29, 2025",
+        "Location": "",
+        "Start Time": "May 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 30, 2025",
+        "Location": "",
+        "Start Time": "May 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 30, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 30, 2025",
+        "Location": "",
+        "Start Time": "May 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Asian American and Pacific Islander Heritage Month",
+        "Date": "May 31, 2025",
+        "Location": "",
+        "Start Time": "May 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Jewish American Heritage",
+        "Date": "May 31, 2025",
+        "Location": "",
+        "Start Time": "May 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "May 31, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "May 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "June 01, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "June 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 pass/no pass &amp; withdrawal deadline",
+        "Date": "June 09, 2025",
+        "Location": "",
+        "Start Time": "June 09, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 Faculty Course Evaluations open",
+        "Date": "June 13, 2025",
+        "Location": "",
+        "Start Time": "June 13, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All course drop deadline; withdrawal grade assigned after this date",
+        "Date": "June 17, 2025",
+        "Location": "",
+        "Start Time": "June 17, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 Last Day of Classes",
+        "Date": "June 18, 2025",
+        "Location": "",
+        "Start Time": "June 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 voucher deadline",
+        "Date": "June 18, 2025",
+        "Location": "",
+        "Start Time": "June 18, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Juneteenth; University Closed &amp; No Classes",
+        "Date": "June 19, 2025",
+        "Location": "",
+        "Start Time": "June 19, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 Faculty Course Evaluations close",
+        "Date": "June 20, 2025",
+        "Location": "",
+        "Start Time": "June 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 Final Exams",
+        "Date": "June 20, 2025",
+        "Location": "",
+        "Start Time": "June 20, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer Two &amp; Mini-6 First Day of Classes",
+        "Date": "June 23, 2025",
+        "Location": "",
+        "Start Time": "June 23, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer One &amp; Mini-5 Final Grades Due by",
+        "Date": "June 24, 2025",
+        "Location": "",
+        "Start Time": "June 24, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer Two &amp; Mini-6 add, audit, &amp; tuition adjustment drop deadline",
+        "Date": "June 27, 2025",
+        "Location": "",
+        "Start Time": "June 27, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All pass/no pass &amp; withdrawal grade deadline",
+        "Date": "July 03, 2025",
+        "Location": "",
+        "Start Time": "July 03, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Independence Day; University Closed &amp; No Classes",
+        "Date": "July 04, 2025",
+        "Location": "",
+        "Start Time": "July 04, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer Two &amp; Mini-6 drop deadline; withdrawal grade assigned after this date",
+        "Date": "July 07, 2025",
+        "Location": "",
+        "Start Time": "July 07, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer Two &amp; Mini-6 pass/no pass &amp; withdrawal deadline",
+        "Date": "July 21, 2025",
+        "Location": "",
+        "Start Time": "July 21, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All, Two &amp; Mini-6 Faculty Course Evaluations open",
+        "Date": "July 28, 2025",
+        "Location": "",
+        "Start Time": "July 28, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All, Two &amp; Mini-6 Last Day of Classes",
+        "Date": "July 31, 2025",
+        "Location": "",
+        "Start Time": "July 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All, Two &amp; Mini-6 voucher deadline",
+        "Date": "July 31, 2025",
+        "Location": "",
+        "Start Time": "July 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All, Two &amp; Mini-6 Faculty Course Evaluations close",
+        "Date": "August 01, 2025",
+        "Location": "",
+        "Start Time": "August 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All, Two &amp; Mini-6 Final Exams",
+        "Date": "August 01, 2025",
+        "Location": "",
+        "Start Time": "August 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Summer All, Two &amp; Mini-6 Final Grades Due by 4pm",
+        "Date": "August 05, 2025",
+        "Location": "",
+        "Start Time": "August 05, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    }
+]

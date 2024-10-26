@@ -1,0 +1,539 @@
+{
+    "note": "The below is the schedule of the Pittsburgh Penguins for the 2024-2025 season",
+    "schedule": [
+        {
+            "date": "2024-09-21",
+            "home_team": "Buffalo",
+            "away_team": "Pittsburgh",
+            "location": "KeyBank Center"
+        },
+        {
+            "date": "2024-09-24",
+            "home_team": "Pittsburgh",
+            "away_team": "Buffalo",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-09-29",
+            "home_team": "Ottawa",
+            "away_team": "Pittsburgh",
+            "location": "Sudbury Community Arena"
+        },
+        {
+            "date": "2024-09-30",
+            "home_team": "Detroit",
+            "away_team": "Pittsburgh",
+            "location": "Little Caesars Arena"
+        },
+        {
+            "date": "2024-10-01",
+            "home_team": "Pittsburgh",
+            "away_team": "Detroit",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-10-03",
+            "home_team": "Columbus",
+            "away_team": "Pittsburgh",
+            "location": "Nationwide Arena"
+        },
+        {
+            "date": "2024-10-04",
+            "home_team": "Pittsburgh",
+            "away_team": "Columbus",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-10-09",
+            "home_team": "Pittsburgh",
+            "away_team": "New York",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-10-10",
+            "home_team": "Detroit",
+            "away_team": "Pittsburgh",
+            "location": "Little Caesars Arena"
+        },
+        {
+            "date": "2024-10-12",
+            "home_team": "Toronto",
+            "away_team": "Pittsburgh",
+            "location": "Scotiabank Arena"
+        },
+        {
+            "date": "2024-10-14",
+            "home_team": "Montr\u00e9al",
+            "away_team": "Pittsburgh",
+            "location": "Centre Bell"
+        },
+        {
+            "date": "2024-10-16",
+            "home_team": "Pittsburgh",
+            "away_team": "Buffalo",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-10-18",
+            "home_team": "Pittsburgh",
+            "away_team": "Carolina",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-10-20",
+            "home_team": "Winnipeg",
+            "away_team": "Pittsburgh",
+            "location": "Canada Life Centre"
+        },
+        {
+            "date": "2024-10-22",
+            "home_team": "Calgary",
+            "away_team": "Pittsburgh",
+            "location": "Scotiabank Saddledome"
+        },
+        {
+            "date": "2024-10-25",
+            "home_team": "Edmonton",
+            "away_team": "Pittsburgh",
+            "location": "Rogers Place"
+        },
+        {
+            "date": "2024-10-26",
+            "home_team": "Vancouver",
+            "away_team": "Pittsburgh",
+            "location": "Rogers Arena"
+        },
+        {
+            "date": "2024-10-29",
+            "home_team": "Pittsburgh",
+            "away_team": "Minnesota",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-10-31",
+            "home_team": "Pittsburgh",
+            "away_team": "Anaheim",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-02",
+            "home_team": "Pittsburgh",
+            "away_team": "Montr\u00e9al",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-05",
+            "home_team": "New York",
+            "away_team": "Pittsburgh",
+            "location": "UBS Arena"
+        },
+        {
+            "date": "2024-11-07",
+            "home_team": "Carolina",
+            "away_team": "Pittsburgh",
+            "location": "Lenovo Center"
+        },
+        {
+            "date": "2024-11-08",
+            "home_team": "Washington",
+            "away_team": "Pittsburgh",
+            "location": "Capital One Arena"
+        },
+        {
+            "date": "2024-11-11",
+            "home_team": "Pittsburgh",
+            "away_team": "Dallas",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-13",
+            "home_team": "Pittsburgh",
+            "away_team": "Detroit",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-15",
+            "home_team": "Columbus",
+            "away_team": "Pittsburgh",
+            "location": "Nationwide Arena"
+        },
+        {
+            "date": "2024-11-16",
+            "home_team": "Pittsburgh",
+            "away_team": "San Jose",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-19",
+            "home_team": "Pittsburgh",
+            "away_team": "Tampa Bay",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-22",
+            "home_team": "Pittsburgh",
+            "away_team": "Winnipeg",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-23",
+            "home_team": "Pittsburgh",
+            "away_team": "Utah",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-27",
+            "home_team": "Pittsburgh",
+            "away_team": "Vancouver",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-11-29",
+            "home_team": "Boston",
+            "away_team": "Pittsburgh",
+            "location": "TD Garden"
+        },
+        {
+            "date": "2024-11-30",
+            "home_team": "Pittsburgh",
+            "away_team": "Calgary",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-03",
+            "home_team": "Pittsburgh",
+            "away_team": "Florida",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-06",
+            "home_team": "New York",
+            "away_team": "Pittsburgh",
+            "location": "Madison Square Garden"
+        },
+        {
+            "date": "2024-12-07",
+            "home_team": "Pittsburgh",
+            "away_team": "Toronto",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-10",
+            "home_team": "Pittsburgh",
+            "away_team": "Colorado",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-12",
+            "home_team": "Montr\u00e9al",
+            "away_team": "Pittsburgh",
+            "location": "Centre Bell"
+        },
+        {
+            "date": "2024-12-14",
+            "home_team": "Ottawa",
+            "away_team": "Pittsburgh",
+            "location": "Canadian Tire Centre"
+        },
+        {
+            "date": "2024-12-17",
+            "home_team": "Pittsburgh",
+            "away_team": "Los Angeles",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-19",
+            "home_team": "Nashville",
+            "away_team": "Pittsburgh",
+            "location": "Bridgestone Arena"
+        },
+        {
+            "date": "2024-12-21",
+            "home_team": "New Jersey",
+            "away_team": "Pittsburgh",
+            "location": "Prudential Center"
+        },
+        {
+            "date": "2024-12-23",
+            "home_team": "Pittsburgh",
+            "away_team": "Philadelphia",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-28",
+            "home_team": "New York",
+            "away_team": "Pittsburgh",
+            "location": "UBS Arena"
+        },
+        {
+            "date": "2024-12-29",
+            "home_team": "Pittsburgh",
+            "away_team": "New York",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2024-12-31",
+            "home_team": "Detroit",
+            "away_team": "Pittsburgh",
+            "location": "Little Caesars Arena"
+        },
+        {
+            "date": "2025-01-03",
+            "home_team": "Florida",
+            "away_team": "Pittsburgh",
+            "location": "Amerant Bank Arena"
+        },
+        {
+            "date": "2025-01-05",
+            "home_team": "Carolina",
+            "away_team": "Pittsburgh",
+            "location": "Lenovo Center"
+        },
+        {
+            "date": "2025-01-07",
+            "home_team": "Pittsburgh",
+            "away_team": "Columbus",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-01-09",
+            "home_team": "Pittsburgh",
+            "away_team": "Edmonton",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-01-11",
+            "home_team": "Pittsburgh",
+            "away_team": "Ottawa",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-01-12",
+            "home_team": "Pittsburgh",
+            "away_team": "Tampa Bay",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-01-14",
+            "home_team": "Pittsburgh",
+            "away_team": "Seattle",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-01-17",
+            "home_team": "Buffalo",
+            "away_team": "Pittsburgh",
+            "location": "KeyBank Center"
+        },
+        {
+            "date": "2025-01-18",
+            "home_team": "Washington",
+            "away_team": "Pittsburgh",
+            "location": "Capital One Arena"
+        },
+        {
+            "date": "2025-01-20",
+            "home_team": "Los Angeles",
+            "away_team": "Pittsburgh",
+            "location": "Crypto.com Arena"
+        },
+        {
+            "date": "2025-01-23",
+            "home_team": "Anaheim",
+            "away_team": "Pittsburgh",
+            "location": "Honda Center"
+        },
+        {
+            "date": "2025-01-25",
+            "home_team": "Seattle",
+            "away_team": "Pittsburgh",
+            "location": "Climate Pledge Arena"
+        },
+        {
+            "date": "2025-01-27",
+            "home_team": "San Jose",
+            "away_team": "Pittsburgh",
+            "location": "SAP Center at San Jose"
+        },
+        {
+            "date": "2025-01-29",
+            "home_team": "Utah",
+            "away_team": "Pittsburgh",
+            "location": "Delta Center"
+        },
+        {
+            "date": "2025-02-01",
+            "home_team": "Pittsburgh",
+            "away_team": "Nashville",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-02-04",
+            "home_team": "Pittsburgh",
+            "away_team": "New Jersey",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-02-07",
+            "home_team": "New York",
+            "away_team": "Pittsburgh",
+            "location": "Madison Square Garden"
+        },
+        {
+            "date": "2025-02-08",
+            "home_team": "Philadelphia",
+            "away_team": "Pittsburgh",
+            "location": "Wells Fargo Center"
+        },
+        {
+            "date": "2025-02-22",
+            "home_team": "Pittsburgh",
+            "away_team": "Washington",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-02-23",
+            "home_team": "Pittsburgh",
+            "away_team": "New York",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-02-25",
+            "home_team": "Philadelphia",
+            "away_team": "Pittsburgh",
+            "location": "Wells Fargo Center"
+        },
+        {
+            "date": "2025-02-27",
+            "home_team": "Pittsburgh",
+            "away_team": "Philadelphia",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-01",
+            "home_team": "Pittsburgh",
+            "away_team": "Boston",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-02",
+            "home_team": "Pittsburgh",
+            "away_team": "Toronto",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-04",
+            "home_team": "Colorado",
+            "away_team": "Pittsburgh",
+            "location": "Ball Arena"
+        },
+        {
+            "date": "2025-03-07",
+            "home_team": "Vegas",
+            "away_team": "Pittsburgh",
+            "location": "T-Mobile Arena"
+        },
+        {
+            "date": "2025-03-09",
+            "home_team": "Minnesota",
+            "away_team": "Pittsburgh",
+            "location": "Xcel Energy Center"
+        },
+        {
+            "date": "2025-03-11",
+            "home_team": "Pittsburgh",
+            "away_team": "Vegas",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-13",
+            "home_team": "Pittsburgh",
+            "away_team": "St. Louis",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-15",
+            "home_team": "Pittsburgh",
+            "away_team": "New Jersey",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-18",
+            "home_team": "Pittsburgh",
+            "away_team": "New York",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-21",
+            "home_team": "Pittsburgh",
+            "away_team": "Columbus",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-03-23",
+            "home_team": "Florida",
+            "away_team": "Pittsburgh",
+            "location": "Amerant Bank Arena"
+        },
+        {
+            "date": "2025-03-25",
+            "home_team": "Tampa Bay",
+            "away_team": "Pittsburgh",
+            "location": "Amalie Arena"
+        },
+        {
+            "date": "2025-03-27",
+            "home_team": "Buffalo",
+            "away_team": "Pittsburgh",
+            "location": "KeyBank Center"
+        },
+        {
+            "date": "2025-03-30",
+            "home_team": "Pittsburgh",
+            "away_team": "Ottawa",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-04-03",
+            "home_team": "St. Louis",
+            "away_team": "Pittsburgh",
+            "location": "Enterprise Center"
+        },
+        {
+            "date": "2025-04-05",
+            "home_team": "Dallas",
+            "away_team": "Pittsburgh",
+            "location": "American Airlines Center"
+        },
+        {
+            "date": "2025-04-06",
+            "home_team": "Chicago",
+            "away_team": "Pittsburgh",
+            "location": "United Center"
+        },
+        {
+            "date": "2025-04-08",
+            "home_team": "Pittsburgh",
+            "away_team": "Chicago",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-04-11",
+            "home_team": "New Jersey",
+            "away_team": "Pittsburgh",
+            "location": "Prudential Center"
+        },
+        {
+            "date": "2025-04-13",
+            "home_team": "Pittsburgh",
+            "away_team": "Boston",
+            "location": "PPG Paints Arena"
+        },
+        {
+            "date": "2025-04-17",
+            "home_team": "Pittsburgh",
+            "away_team": "Washington",
+            "location": "PPG Paints Arena"
+        }
+    ]
+}

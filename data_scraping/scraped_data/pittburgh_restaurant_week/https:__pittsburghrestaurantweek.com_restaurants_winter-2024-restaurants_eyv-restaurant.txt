@@ -1,0 +1,104 @@
+EYV Restaurant – Pittsburgh Restaurant Week
+
+EYV Restaurant – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+EYV Restaurant
+Winter 2024 Restaurants
+EYV Restaurant
+ADDRESS
+424 E Ohio St, 
+Pittsburgh PA 15212 (
+Map
+)
+PHONE
+(412) 742-4386
+NEIGHBORHOOD
+North Side
+WEBSITE
+eyvrestaurant.com
+MENU STARTS EARLY
+WALK-INS WELCOME
+Restaurant Week Special Menu:
+$45.24 DINNER
+Choice of 1 Snack or Starter | 1 Main |1 Cheese or Sweet | $45.24 | Wine Pairing $30
+Snacks & Starters (Choose 1)
+GF       Broccoli “Chicharrons” | Beer Cheese Dip |Broccoli Pickles|
+V, GF     Hummus Fritters| Harissa Yogurt | Zaatar |
+V, GF     Endive Tart |Endive Marmalade | Roquefort Mousse| Pear| Walnut |
+V, GF     Gochujang Arancini |Miso-Tofu “Aioli”| Cheese Curd |
+This Dish Was Developed By Sous Chef Maddie Kobayashi
+Wine Pairing : NV Revino | Prosecco| Veneto, Italy |
+V, GF     Farmers Salad |Local Greens & Veggies |Herbed Balsamic Vinaigrette | Ranch Mousse |Tater Tot|
+Wine Pairing : 2020 Venea ‘Spinalba’ | Sauvignon Blanc & Trebbiano | Abruzzo Italy |
+GF   Yukon Gold Potato Pierogi | Onion Sour Cream | Melted Leeks | Sauerkraut Chip |
+Wine Pairing : 2021 Domaine Romuald Petit | Bourgogne Blanc | Burgundy, France
+V, GF     West African Pumpkin Soup | Shrimp Chips| Bitter Greens Relish | Peanut |
+Wine Pairing : Xarmant Arabako Txakolina | Hondarrabi Zuri, Petit Courbú | Basque, Spain |
+GF     Root Vegetable Vol-Au-Vent | Herbed Veloute | Pearl Onion| Wild Mushroom |
+Wine Pairing : 2022 Elena Fucci “Titilo” | Aglianico Rose | Basilicata Italy
+Mains (Choose 1)
+V, GF     Potato “Mill Feuille” |Warm Bacon Dressing | Turnip | Wilted Fiolaro Leaf Broccoli | Roasted Pork Belly |*
+Wine Pairing : 2020 Fuchs Gruner Veltliner | Gruner Veltliner | Burgenland, Austria |
+V, GF     Cabbage Pastrami | 1000 Island Hollandaise |Steak Fries| Sweet & Sour Onions | Rye-Swiss Crumble |*
+Wine Pairing : 2018 Elena Fucci “SCEG” | Aglianico Del Vulture | Basilicata, Italy |
+V, GF     Butter Poached Fungal Farms Mushrooms | Sauce Américaine | Fennel |Braised Radicchio| Land Caviar |
+Wine Pairing : 2020 Klet Brada “Villia Brici” | Chardonay | Slovenia |
+Beet Wellington | Sauce Perigueux | Mache Salad |Pickled Shallot | Bone Marrow Vinaigrette |
+Wine Pairing : 2019 Conte Ca’Emo Bordeaux Blend | Merlot, Cabernet Franc, Cabernet Sauvignon, Raboso| Veneto, Italy |
+Cheese & Sweets (Choose 1)
+GF     St Andre Cheese| Apple Barbajuan | Candied Walnut | Watercress |
+Wine Pairing : Chateau Simian Jeu de Rolle | Rolls| Rhône, France
+V,GF     Spiced Apple Tart| Dried Plum Ice Cream | Walnut Streusel | Vanilla Sour Cream |
+Wine Pairing : Fior D’Arancio Spumant | Fior D’Arancio Spumant | Veneto, Italy |
+GF Celery Root Napolean| Celery Root Pastry Cream | Candied Hazelnuts| Espresso Crème Anglaise|
+Wine Pairing : NV Conde De Subirats  | Brute Rose Cava | Spain |
+V,GF     3 Scoops of House Ice Cream | Flavor Changes Through the Seasons|
+* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness
+All menu items may be prepared Vegetarian.
+V = Item may be prepared Vegan
+GF = Item May be prepared Gluten Free
+Available for dine-in only. Not available for online, takeout or to-go orders.
+ADVERTISEMENT
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

@@ -1,0 +1,125 @@
+Khalil’s Middle Eastern Restaurant – Pittsburgh Restaurant Week
+
+Khalil’s Middle Eastern Restaurant – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+Khalil’s Middle Eastern Restaurant
+Winter 2024 Restaurants
+Khalil’s Middle Eastern Restaurant
+ADDRESS
+4757 Baum Blvd, 
+Pittsburgh, PA 15213 (
+Map
+)
+PHONE
+(412) 683-4757
+NEIGHBORHOOD
+Oakland/Bloomfield
+WEBSITE
+khalilsrestaurant.com
+MENU STARTS EARLY
+WALK-INS WELCOME
+Restaurant Week Special Menu:
+$15.24 LUNCH
+** Indicates New Menu Item
+DELICIOUS MEDITERRANEAN LUNCH *(With Meat)
+– Traditional Hummus
+** Lubie Siame (Green beans, sautéed onions)
+– Chicken with Shawarma spice
+– Buttered Rice Pilaf, orzo, toasted pignolia nuts & almonds
+– Pita Bread
+HEALTHY MEDITERRANEAN LUNCH *(Vegetarian)
+– Traditional Hummus
+– Spanakopita
+– Felafel
+– Dolmas
+– Pita Bread
+$28.24 DINNER
+TRADITIONAL SYRIAN VILLAGE DINNER *(With Meat)
+– Khalil’s Signature Salad
+** Sheik al Mishee
+(Eggplant casserole with seasoned ground beef, tomato sauce)
+** Ouzie
+(Buttered Rice pilaf with peas, raisins, topped with toasted pignolia nuts & almonds
+– Pita Bread
+– Choice of Arabic coffee with cardamom or Syrian Mint Tea with Rose Water syrup
+– Syrian pastry
+TRADITIONAL SYRIAN VILLAGE DINNER *(Vegetarian)
+– Khalil’s Signature Salad
+** Bitata Kibbee (Potatoe Kibbee)
+(Potato, bulgar wheat (an ancient grain) seasoning, baked to perfection!)
+** Laban (yogurt)
+** Lubie Siame (Green beans, sautéed onions)
+– Pita Bread
+– Choice of Arabic coffee with cardamom or Syrian Mint Tea with Rose Water syrup
+– Syrian pastry
+$5 Add ons
+– Hummus
+– Dolmas
+– Labnee
+– Spanakopita
+– Feta cheese, Imported Mixed Olives, Lifit *(handmade pickled turnips)
+$40.24 BRUNCH
+MEDITERRANEAN SUNDAY BRUNCH
+**All new items, as we do not have a Sunday Brunch
+– Spinach & Cheese Quiche
+– Sausage
+– Potato with sautéed onions
+– Cinnamon Pancakes with Maple Syrup
+– Feta Cheese
+– Shunkleesh (Syrian Cheese)
+– Macdouse (pickled eggplant, walnuts)
+– Mixed Imported Olives
+– Tomatoes
+– Cucumbers
+– Za’atar *Manaeesh (Flatbread)
+– Buttered Rose Petal Jam & Asiago, Parmesan Cheese *Manaeesh (Flatbread)
+– Assorted Gourmet Breads
+– Assorted Gourmet Pastries
+– Assorted Jams
+– Assorted Fresh fruits
+– Arabic Coffee or Syrian Mint Tea
+Available for dine-in only. Not available for online, takeout or to-go orders.
+ADVERTISEMENT
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

@@ -1,0 +1,283 @@
+Summer 2016 Restaurants – Pittsburgh Restaurant Week
+
+Summer 2016 Restaurants – Pittsburgh Restaurant Week
+Toggle Navigation
+Get Involved
+Join Newsletter
+register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document.getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js’; head.appendChild(script); if (script.readyState && script.onload!==null){ script.onreadystatechange= function () { if (this.readyState == ‘complete’) mce_preload_check(); } } } var script = document.createElement(‘script’); script.type = ‘text/javascript’; script.src = ‘http://downloads.mailchimp.com/js/jquery.form-n-validate.js’; head.appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document.getElementsByTagName(‘head’)[0]; var style= document.createElement(‘style’); style.type= ‘text/css’; if (style.styleSheet) { style.styleSheet.cssText = ‘.mce_inline_error {‘ + err_style + ‘}’; } else { style.appendChild(document.createTextNode(‘.mce_inline_error {‘ + err_style + ‘}’)); } head.appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”).validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document).ready( function($) { var…
+Online Restaurant Registration
+~ Suggest A Restaurant
+Sponsor the Celebration
+Pittsburgh Restaurant Week is currently seeking sponsors.  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers. By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities. Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www.pittsburghrestaurantweek.com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www.facebook.com/PittsburghRestaurantWeek Twitter – www.twitter.com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts. Sponsors are responsible for providing content for e-mail newsletter. Banner ad on high-traffic pages on www.pittsburghrestaurantweek.com/pghrestaurantwk   Interesting in being a sponsor?  E-mail
+[email protected]
+/pghrestaurantwk for more information.
+Submit Restaurant Menu
+Restaurants
+Summer 2024 Restaurants
+Past Celebrations
+Winter 2024 Restaurants
+Summer 2023 Restaurants
+Winter 2023 Restaurants
+Summer 2022 Restaurants
+Winter 2022 Restaurants
+Summer 2021 Restaurants
+Winter 2021 Restaurants
+Summer 2020 Restaurants
+Winter 2020 Restaurants
+Summer 2019 Restaurants
+Winter 2019 Restaurants
+Summer 2018 Restaurants
+Winter 2018 Restaurants
+Summer 2017 Restaurants
+Winter 2017 Restaurants
+Summer 2016 Restaurants
+Winter 2016 Restaurants
+Summer 2015 Restaurants
+Winter 2015 Restaurants
+Summer 2014 Restaurants
+Winter 2014 Restaurants
+Summer 2013 Restaurants
+Winter 2013 Restaurants
+Summer 2012 Restaurants
+Winter 2012 Restaurants
+Restaurant Roulette
+Summer 2016 Restaurants
+Restaurants
+Summer 2016 Restaurants
+Enjoy the 10th Pittsburgh Restaurant Week event this summer.  Begin the celebration at the
+Kickoff Party presented by Reinhart®
+at the National Aviary on August 11
+.  Reserve to dine out across Pittsburgh at participating restaurants
+the entire dining week, Monday August 15 to Sunday August 21
+.
+Bonus Days
+: Can’t wait for restaurant week to start?
+Some restaurants
+are starting the special menus early, on Friday August 12.
+Browse Special Menus
+Narrow Restaurants & Menus
+Neighborhoods:
+Downtown
+|
+Strip District
+|
+Southside
+Early Access
+Outdoor Seating
+Walk-Ins Welcome
+Reserve Online
+Eat Sustainably
+Alexander's Italian Bistro
+$20.16 Dinner
+Bloomfield
+Avenue B
+$20.16 Lunch // $35.16 Dinner
+Shadyside
+Bar Marco
+$30.16 Dinner
+Strip District
+Benjamin's Western Avenue Burger Bar
+$20.16
+Northside
+Bigham Tavern
+$20.16 Dinner
+Mount Washington
+Bill's Bar and Burger
+$20.16 Specialty
+Downtown
+Bistro 19
+$20.16 Lunch / $30.16 Dinner
+Mount Lebanon
+Bistro 9101
+$20.16 Specialty
+North Hills
+Blue North Restaurant
+$29.16 Dinner
+North Hills
+Bonefish Grill
+$20.16 Lunch, $35.16 Dinner
+South Hills
+Braddock's American Brasserie
+$20.16 Specialty
+Downtown
+BRGR
+$20.16 Specialty
+East Liberty
+Bruceton Grille
+$20.16 Dinner
+Pleasant Hills
+Carmella's Plates and Pints
+$20.16 Dinner
+South Side
+Chaz & Odette
+$25.16 or $35.16 Dinner
+Bloomfield
+Cioppino Restaurant & Cigar Bar
+$35.16 Dinner
+Strip District
+Della Terra
+$30.16 Dinner
+Harmony
+Ditka's Restaurant
+$35.16 Dinner
+Robinson Township
+Ease Modern Comfort Cuisine
+$20.16 Specialty
+Regent Square
+Eddie Merlot's
+$35.16 Dinner
+Downtown
+Eighty Acres Kitchen & Bar
+$32.16 Dinner
+East Hills
+G&G Noodle Bar
+$25.16 Dinner
+Downtown
+Grand Concourse Restaurant
+$35.16 Dinner
+Station Square
+Green Forest Churrascaria
+$35.16 Dinner
+Penn Hills
+Habitat Restaurant
+$35.16 Dinner
+Downtown
+Hyde Park Prime Steakhouse
+$35.16 Dinner
+Northshore
+Istanbul Sofra
+Sponsored Restaurant
+Regent Square
+James Street Gastropub & Speakeasy
+$20.16 Dinner
+Northside
+Kaleidoscope Cafe
+$20.16 or $35.16 Dinner
+Lawrenceville
+LeMont Pittsburgh
+$30.16 Dinner
+Mount Washington
+Lidia's Pittsburgh
+$35.16 Dinner
+Strip District
+Luma
+$20.16 Lunch, $35.16 Dinner
+Mt. Lebanon
+Mansions on Fifth
+$20.16 Breakfast / $35.16 Dinner
+Shadyside
+Matteo's
+$26.16 Dinner
+Lawrenceville
+McCormick & Schmick's Seafood - South Side
+$20.16 Lunch // $35.16 Dinner
+South Side
+McCormick & Schmick's Seafood - Downtown
+$20.16 Lunch // $35.16 Dinner
+Downtown
+Mitchell's Fish Market - Galleria
+$20.16 Lunch / $35.16 Dinner
+Mt. Lebanon
+Mitchell's Fish Market - Waterfront
+$20.16 Lunch / $35.16 Dinner
+Waterfront
+Morton's The Steakhouse
+$35.16 Dinner
+Downtown
+Nine on Nine
+$29.16 Dinner
+Downtown
+NOLA on the Square
+$35.16 Dinner
+Downtown
+Osteria 2350
+$20.16 Dinner
+Strip District
+PAN
+$20.16 Specialty
+Lawrenceville
+Paris 66
+$20.16 Lunch / $35.16 Dinner
+Shadyside
+Pazzo - An Italian Bistro
+$25.16 Dinner
+Upper St. Clair
+Pino's Contemporary Italian Kitchen & Wine Bar
+$35.16 Dinner
+Point Breeze
+Poros
+$35.16 Dinner, $20.16 Brunch
+Downtown
+Proper Brick Oven & Tap Room
+$35.16 Dinner
+Downtown
+Revel + Roost
+$35.16 Dinner
+Downtown
+Rumfish Grille
+$35.16 Dinner
+Bridgeville
+Ruth's Chris Steak House
+$26.16 - $35.16 Dinner
+Downtown
+Sarafino's
+$20.16 Dinner
+Crafton
+Sausalido
+$30.16 Dinner
+Bloomfield
+Senti Restaurant
+$20.16 Lunch / $35.16 Dinner
+Lawrenceville
+Six Penn Kitchen
+$35.16 Dinner
+Downtown
+Spoon
+$35.16 Dinner
+East Liberty
+Station
+$30.16 Dinner
+Bloomfield
+Ten Penny
+$35.16 Dinner
+Downtown
+Tender Bar+Kitchen
+$30.16 Dinner
+Lawrenceville
+Texas De Brazil
+$35.16 Dinner
+Station Square
+The Capital Grille
+$16.16 Lunch / $35.16 Dinner
+Downtown
+The Carlton
+$35.16 Dinner
+Downtown
+The Melting Pot
+$28.16 Dinner
+Station Square
+The Porch at Schenley
+$35.16 Dinner
+Oakland
+The Twisted Frenchman
+$35.16 Dinner
+East Liberty
+Union Pig & Chicken
+$20.16 Dinner
+East Liberty
+Wallace's Taproom
+$35.16 Dinner
+East Liberty
+Willow
+$35.16 Dinner
+North Hills
+Additional restaurants participating in Pittsburgh Restaurant Week (menus not yet provided):
+Industry Public House
+Mallorca
+Plum Pan Asian Kitchen
+Terrace Room
+Vivo Kitchen
+About
+Contact
+Contest Guidelines
+© Pittsburgh TasteBuds Ltd

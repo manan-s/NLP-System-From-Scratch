@@ -1,0 +1,1320 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "MJ The Musical",
+    "description": "Buy Tickets for an upcoming MJ The Musical event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-01T13:00:00-05:00",
+    "endDate": "2024-12-01T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "MJ The Musical Tickets",
+            "price": "103.6",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/mj-the-musical-mj-the-musical-dec-01-2024-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "MJ The Musical"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "MJ The Musical",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-01T14:30:00-05:00",
+    "endDate": "2024-12-01T16:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "131.4",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-dec-01-2024-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Jhene Aiko Presents: The Magic Hour Tour",
+    "description": "Buy Tickets for an upcoming Jhen\u00e9 Aiko event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-01T19:00:00-05:00",
+    "endDate": "2024-12-01T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Jhene Aiko Presents: The Magic Hour Tour Tickets",
+            "price": "35.26",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/jhene-aiko-jhene-aiko-presents-the-magic-hour-tour-dec-01-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Jhen\u00e9 Aiko"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Jhen\u00e9 Aiko",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "First to Eleven &#8211; The Ultimate Cover Band",
+    "description": "Buy Tickets for an upcoming First to Eleven event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-01T19:00:00-05:00",
+    "endDate": "2024-12-01T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Hard Rock Cafe Pittsburgh",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "First to Eleven &#8211; The Ultimate Cover Band Tickets",
+            "price": "39.93",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/first-to-eleven-first-to-eleven-the-ultimate-cover-band-dec-01-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "First to Eleven"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "First to Eleven",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "KARLOUS MILLER",
+    "description": "Buy Tickets for an upcoming Karlous Miller event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-01T19:00:00-05:00",
+    "endDate": "2024-12-01T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "KARLOUS MILLER Tickets",
+            "price": "53",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/karlous-miller-karlous-miller-dec-01-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Karlous Miller"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Karlous Miller",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Evan Honer",
+    "description": "Buy Tickets for an upcoming Evan Honer event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-03T19:00:00-05:00",
+    "endDate": "2024-12-03T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Spirit Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15201, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15201",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Evan Honer Tickets",
+            "price": "76",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/evan-honer-evan-honer-dec-03-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Evan Honer"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Evan Honer",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Florida Panthers at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Florida Panthers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-03T19:00:00-05:00",
+    "endDate": "2024-12-03T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Florida Panthers at Pittsburgh Penguins Tickets",
+            "price": "38.76",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/florida-panthers-florida-panthers-at-pittsburgh-penguins-dec-03-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Florida Panthers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Florida Panthers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Saint Peter&#8217;s Peacocks at Duquesne Dukes Basketball",
+    "description": "Buy Tickets for an upcoming Duquesne Dukes Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-03T19:00:00-05:00",
+    "endDate": "2024-12-03T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "UPMC Cooper Fieldhouse",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15282, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15282",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Saint Peter&#8217;s Peacocks at Duquesne Dukes Basketball Tickets",
+            "price": "16.32",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/saint-peters-peacocks-basketball-saint-peters-peacocks-at-duquesne-dukes-basketball-dec-03-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Duquesne Dukes Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Duquesne Dukes Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Jonathan Coulton",
+    "description": "Buy Tickets for an upcoming Jonathan Coulton event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-03T19:30:00-05:00",
+    "endDate": "2024-12-03T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "City Winery Pittsburgh",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222PittsburghPennsylvaniaUS",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Jonathan Coulton Tickets",
+            "price": "96.14",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/jonathan-coulton-jonathan-coulton-dec-03-2024-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Jonathan Coulton"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Jonathan Coulton",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Mike Viola",
+    "description": "Buy Tickets for an upcoming Mike Viola event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-03T20:00:00-05:00",
+    "endDate": "2024-12-03T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Club Cafe",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15203, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15203",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Mike Viola Tickets",
+            "price": "10",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/mike-viola-mike-viola-dec-03-2024-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Mike Viola"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Mike Viola",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Jonathan Coulton",
+    "description": "Buy Tickets for an upcoming Jonathan Coulton event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-04T19:30:00-05:00",
+    "endDate": "2024-12-04T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "City Winery Pittsburgh",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222PittsburghPennsylvaniaUS",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Jonathan Coulton Tickets",
+            "price": "113.24",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/jonathan-coulton-jonathan-coulton-dec-04-2024-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Jonathan Coulton"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Jonathan Coulton",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Scott Bradlee&#8217;s Postmodern Jukebox",
+    "description": "Buy Tickets for an upcoming Scott Bradlee event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-04T20:00:00-05:00",
+    "endDate": "2024-12-04T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Carnegie of Homestead Music Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Scott Bradlee&#8217;s Postmodern Jukebox Tickets",
+            "price": "104",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/scott-bradlee-scott-bradlees-postmodern-jukebox-dec-04-2024-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Scott Bradlee"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Scott Bradlee",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Rene Vaca",
+    "description": "Buy Tickets for an upcoming Rene Vaca event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-05T20:00:00-05:00",
+    "endDate": "2024-12-05T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Rene Vaca Tickets",
+            "price": "51.85",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/rene-vaca-rene-vaca-dec-05-2024-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Rene Vaca"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Rene Vaca",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Illiterate Light with Special Guest Palmyra",
+    "description": "Buy Tickets for an upcoming Palmyra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-05T20:00:00-05:00",
+    "endDate": "2024-12-05T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Club Cafe",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15203, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15203",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Illiterate Light with Special Guest Palmyra Tickets",
+            "price": "28",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/palmyra-illiterate-light-with-special-guest-palmyra-dec-05-2024-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Palmyra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Palmyra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Delaware Blue Hens at Duquesne Dukes Basketball",
+    "description": "Buy Tickets for an upcoming Delaware Blue Hens Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T18:00:00-05:00",
+    "endDate": "2024-12-06T20:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "UPMC Cooper Fieldhouse",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15282, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15282",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Delaware Blue Hens at Duquesne Dukes Basketball Tickets",
+            "price": "16.32",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/delaware-blue-hens-basketball-delaware-blue-hens-at-duquesne-dukes-basketball-dec-06-2024-6-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Delaware Blue Hens Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Delaware Blue Hens Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "The Nutcracker",
+    "description": "Buy Tickets for an upcoming The Nutcracker (ballet) event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T19:00:00-05:00",
+    "endDate": "2024-12-06T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "The Nutcracker Tickets",
+            "price": "94",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/the-nutcracker-ballet-the-nutcracker-dec-06-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "The Nutcracker (ballet)"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "The Nutcracker (ballet)",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Steve Byrne",
+    "description": "Buy Tickets for an upcoming Steve Byrne event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T19:30:00-05:00",
+    "endDate": "2024-12-06T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Steve Byrne Tickets",
+            "price": "43.21",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/steve-byrne-steve-byrne-dec-06-2024-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Steve Byrne"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Steve Byrne",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra &#8211; Brahms and Faure",
+    "description": "Buy Tickets for an upcoming Brahms - Classical event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T19:30:00-05:00",
+    "endDate": "2024-12-06T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra &#8211; Brahms and Faure Tickets",
+            "price": "162.72",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/brahms-classical-pittsburgh-symphony-orchestra-brahms-and-faure-dec-06-2024-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Brahms - Classical"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Brahms - Classical",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Maya de Vitry / Twisted Pine",
+    "description": "Buy Tickets for an upcoming Maya de Vitry event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T20:00:00-05:00",
+    "endDate": "2024-12-06T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Club Cafe",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15203, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15203",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Maya de Vitry / Twisted Pine Tickets",
+            "price": "26.24",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/twisted-pine-maya-de-vitry-twisted-pine-dec-06-2024-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Maya de Vitry"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Maya de Vitry",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Broadway Rave",
+    "description": "Buy Tickets for an upcoming Broadway Rave event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T21:00:00-05:00",
+    "endDate": "2024-12-06T23:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Crafthouse Stage &amp; Grill",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15236, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15236",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Broadway Rave Tickets",
+            "price": "59.86",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/broadway-rave-broadway-rave-dec-06-2024-9-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Broadway Rave"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Broadway Rave",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Steve Byrne",
+    "description": "Buy Tickets for an upcoming Steve Byrne event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-06T21:45:00-05:00",
+    "endDate": "2024-12-06T23:45:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Steve Byrne Tickets",
+            "price": "43.21",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/steve-byrne-steve-byrne-dec-06-2024-9-45-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Steve Byrne"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Steve Byrne",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Brick Fest Live | Pittsburgh, PA",
+    "description": "Buy Tickets for an upcoming Brick Fest Live event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T09:00:00-05:00",
+    "endDate": "2024-12-07T11:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "David L. Lawrence Convention Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Brick Fest Live | Pittsburgh, PA Tickets",
+            "price": "41",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/brick-fest-live-brick-fest-live-pittsburgh-pa-dec-07-2024-9-00-am/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Brick Fest Live"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Brick Fest Live",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "The Nutcracker",
+    "description": "Buy Tickets for an upcoming The Nutcracker (ballet) event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T14:00:00-05:00",
+    "endDate": "2024-12-07T16:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "The Nutcracker Tickets",
+            "price": "110",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/the-nutcracker-ballet-the-nutcracker-dec-07-2024-2-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "The Nutcracker (ballet)"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "The Nutcracker (ballet)",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Gavin Adcock",
+    "description": "Buy Tickets for an upcoming Gavin Adcock event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T19:00:00-05:00",
+    "endDate": "2024-12-07T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Stage AE",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Gavin Adcock Tickets",
+            "price": "199",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/gavin-adcock-gavin-adcock-dec-07-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Gavin Adcock"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Gavin Adcock",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "The Nutcracker",
+    "description": "Buy Tickets for an upcoming The Nutcracker (ballet) event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T19:00:00-05:00",
+    "endDate": "2024-12-07T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "The Nutcracker Tickets",
+            "price": "110",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/the-nutcracker-ballet-the-nutcracker-dec-07-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "The Nutcracker (ballet)"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "The Nutcracker (ballet)",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Steve Byrne",
+    "description": "Buy Tickets for an upcoming Steve Byrne event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T19:00:00-05:00",
+    "endDate": "2024-12-07T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Steve Byrne Tickets",
+            "price": "43.21",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/steve-byrne-steve-byrne-dec-07-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Steve Byrne"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Steve Byrne",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Toronto Maple Leafs at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Pittsburgh Penguins event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T19:00:00-05:00",
+    "endDate": "2024-12-07T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Toronto Maple Leafs at Pittsburgh Penguins Tickets",
+            "price": "98.96",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/toronto-maple-leafs-toronto-maple-leafs-at-pittsburgh-penguins-dec-07-2024-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Penguins"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Penguins",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra &#8211; Handel&#8217;s Messiah",
+    "description": "Buy Tickets for an upcoming Handel's Messiah event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T19:30:00-05:00",
+    "endDate": "2024-12-07T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra &#8211; Handel&#8217;s Messiah Tickets",
+            "price": "59.84",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/handels-messiah-pittsburgh-symphony-orchestra-handels-messiah-dec-07-2024-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Handel's Messiah"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Handel's Messiah",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Matteo Bocelli",
+    "description": "Buy Tickets for an upcoming Matteo Bocelli event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T20:00:00-05:00",
+    "endDate": "2024-12-07T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Carnegie of Homestead Music Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Matteo Bocelli Tickets",
+            "price": "85",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/matteo-bocelli-matteo-bocelli-dec-07-2024-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Matteo Bocelli"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Matteo Bocelli",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Matteo Bocelli",
+    "description": "Buy Tickets for an upcoming Matteo Bocelli event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2024-12-07T20:00:00-05:00",
+    "endDate": "2024-12-07T22:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Carnegie Music Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15213, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15213",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Matteo Bocelli Tickets",
+            "price": "89.95",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:09+00:00",
+            "url": "https://pittsburgh.events/dates/matteo-bocelli-matteo-bocelli-dec-07-2024-8-00-pm-2/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Matteo Bocelli"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Matteo Bocelli",
+        "url": "https://pittsburgh.events"
+    }
+}
+

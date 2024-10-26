@@ -1,0 +1,502 @@
+[
+    {
+        "Title": "(Softball) Emory vs. Carnegie Mellon",
+        "Date": "March 28, 2025",
+        "Location": "",
+        "Start Time": "March 28, 2025, 03:00 PM",
+        "End Time": "March 28, 2025, 06:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Ramadan",
+        "Date": "March 28, 2025",
+        "Location": "",
+        "Start Time": "March 28, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Women\u2019s History Month",
+        "Date": "March 28, 2025",
+        "Location": "",
+        "Start Time": "March 28, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Ramadan",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(Softball) Emory vs. Carnegie Mellon",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 12:00 PM",
+        "End Time": "March 29, 2025, 03:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(Softball) Emory vs. Carnegie Mellon",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 02:00 PM",
+        "End Time": "March 29, 2025, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(M. Track and Field) Carnegie Mellon Invitational",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(W. Track and Field) Carnegie Mellon Invitational",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "March 29, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "March 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Women\u2019s History Month",
+        "Date": "March 29, 2025",
+        "Location": "",
+        "Start Time": "March 29, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Eid al-Fitr",
+        "Date": "March 30, 2025",
+        "Location": "",
+        "Start Time": "March 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "March 30, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "March 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "March 30, 2025",
+        "Location": "",
+        "Start Time": "March 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Women\u2019s History Month",
+        "Date": "March 30, 2025",
+        "Location": "",
+        "Start Time": "March 30, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Eid al-Fitr",
+        "Date": "March 31, 2025",
+        "Location": "",
+        "Start Time": "March 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Women\u2019s History Month",
+        "Date": "March 31, 2025",
+        "Location": "",
+        "Start Time": "March 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "March 31, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "March 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "International Transgender Day of Visibility",
+        "Date": "March 31, 2025",
+        "Location": "",
+        "Start Time": "March 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "March 31, 2025",
+        "Location": "",
+        "Start Time": "March 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Semester pass/no pass &amp; withdrawal deadline",
+        "Date": "March 31, 2025",
+        "Location": "",
+        "Start Time": "March 31, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Carnegie Mellon Chamber Series: Schumann &amp; Schubert",
+        "Date": "April 01, 2025",
+        "Location": "Kresge Theatre, College of Fine Arts @ 5000 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States",
+        "Start Time": "April 01, 2025, 07:30 PM",
+        "End Time": "April 01, 2025, 09:30 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "April 01, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "April 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "April 01, 2025",
+        "Location": "",
+        "Start Time": "April 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "National Arab American Heritage Month",
+        "Date": "April 01, 2025",
+        "Location": "",
+        "Start Time": "April 01, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "A Gala of Grand Opera",
+        "Date": "April 02, 2025",
+        "Location": "Carnegie Music Hall, Oakland @ 4400 Forbes Avenue, Pittsburgh, Pennsylvania, 15213, United States",
+        "Start Time": "April 02, 2025, 08:00 PM",
+        "End Time": "April 02, 2025, 10:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "April 02, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "April 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "April 02, 2025",
+        "Location": "",
+        "Start Time": "April 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Mini-4 course drop deadline; withdrawal grade assigned after this date",
+        "Date": "April 02, 2025",
+        "Location": "",
+        "Start Time": "April 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "National Arab American Heritage Month",
+        "Date": "April 02, 2025",
+        "Location": "",
+        "Start Time": "April 02, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "April 03, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "April 03, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "April 03, 2025",
+        "Location": "",
+        "Start Time": "April 03, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "National Arab American Heritage Month",
+        "Date": "April 03, 2025",
+        "Location": "",
+        "Start Time": "April 03, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Spring Carnival; No Classes",
+        "Date": "April 03, 2025",
+        "Location": "",
+        "Start Time": "April 03, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(Softball) Chicago vs. Carnegie Mellon",
+        "Date": "April 04, 2025",
+        "Location": "",
+        "Start Time": "April 04, 2025, 03:00 PM",
+        "End Time": "April 04, 2025, 06:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "April 04, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "April 04, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "April 04, 2025",
+        "Location": "",
+        "Start Time": "April 04, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "National Arab American Heritage Month",
+        "Date": "April 04, 2025",
+        "Location": "",
+        "Start Time": "April 04, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Spring Carnival; No Classes",
+        "Date": "April 04, 2025",
+        "Location": "",
+        "Start Time": "April 04, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(Softball) Chicago vs. Carnegie Mellon",
+        "Date": "April 05, 2025",
+        "Location": "",
+        "Start Time": "April 05, 2025, 12:00 PM",
+        "End Time": "April 05, 2025, 03:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(Softball) Chicago vs. Carnegie Mellon",
+        "Date": "April 05, 2025",
+        "Location": "",
+        "Start Time": "April 05, 2025, 02:00 PM",
+        "End Time": "April 05, 2025, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "April 05, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "April 05, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "April 05, 2025",
+        "Location": "",
+        "Start Time": "April 05, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "National Arab American Heritage Month",
+        "Date": "April 05, 2025",
+        "Location": "",
+        "Start Time": "April 05, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Spring Carnival; No Classes",
+        "Date": "April 05, 2025",
+        "Location": "",
+        "Start Time": "April 05, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Spring Carnival; No Classes",
+        "Date": "April 06, 2025",
+        "Location": "",
+        "Start Time": "April 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "April 06, 2025",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "April 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Lent / Great Lent",
+        "Date": "April 06, 2025",
+        "Location": "",
+        "Start Time": "April 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "National Arab American Heritage Month",
+        "Date": "April 06, 2025",
+        "Location": "",
+        "Start Time": "April 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Ram Navami",
+        "Date": "April 06, 2025",
+        "Location": "",
+        "Start Time": "April 06, 2025, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    }
+]

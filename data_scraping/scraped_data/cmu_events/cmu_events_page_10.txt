@@ -1,0 +1,502 @@
+[
+    {
+        "Title": "CMU Pantry Hours",
+        "Date": "December 14, 2024",
+        "Location": "CMU Pantry",
+        "Start Time": "December 14, 2024, 10:00 AM",
+        "End Time": "December 14, 2024, 01:00 PM",
+        "Is Canceled": "",
+        "Repeats": "weekly",
+        "Description": "The <a href=\"https://www.cmu.edu/student-affairs/resources/cmu-pantry/\" target=\"_blank\" rel=\"noopener\">CMU Pantry</a> is a free resource that combats food insecurity by providing food assistance to CMU students and their dependents."
+    },
+    {
+        "Title": "Final Exams",
+        "Date": "December 15, 2024",
+        "Location": "",
+        "Start Time": "December 15, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 15, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 15, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 15, 2024",
+        "Location": "",
+        "Start Time": "December 15, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Semester &amp; Mini-2 Faculty Course Evaluations close",
+        "Date": "December 15, 2024",
+        "Location": "",
+        "Start Time": "December 15, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "17th International Exhibition of Botanical Art &amp; Illustration",
+        "Date": "December 16, 2024",
+        "Location": "Hunt Institute for Botanical Documentation, 5th Floor, Hunt Library",
+        "Start Time": "December 16, 2024, 09:00 AM",
+        "End Time": "December 16, 2024, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "M-F",
+        "Description": "This Hunt Institute for Botanical Documentation exhibition includes 43 artworks by 43 artists representing 19 countries.&#160;"
+    },
+    {
+        "Title": "CMU Pantry Hours",
+        "Date": "December 16, 2024",
+        "Location": "CMU Pantry",
+        "Start Time": "December 16, 2024, 02:00 PM",
+        "End Time": "December 16, 2024, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "weekly",
+        "Description": "The <a href=\"https://www.cmu.edu/student-affairs/resources/cmu-pantry/\" target=\"_blank\" rel=\"noopener\">CMU Pantry</a> is a free resource that combats food insecurity by providing food assistance to CMU students and their dependents."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 16, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 16, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Make-Up Final Exams",
+        "Date": "December 16, 2024",
+        "Location": "",
+        "Start Time": "December 16, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 16, 2024",
+        "Location": "",
+        "Start Time": "December 16, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "(Men\u2019s Basketball) Washington &amp; Jefferson vs. Carnegie Mellon",
+        "Date": "December 17, 2024",
+        "Location": "",
+        "Start Time": "December 17, 2024, 12:00 PM",
+        "End Time": "December 17, 2024, 03:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "CMU Pantry Hours",
+        "Date": "December 17, 2024",
+        "Location": "CMU Pantry",
+        "Start Time": "December 17, 2024, 02:00 PM",
+        "End Time": "December 17, 2024, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "weekly",
+        "Description": "The <a href=\"https://www.cmu.edu/student-affairs/resources/cmu-pantry/\" target=\"_blank\" rel=\"noopener\">CMU Pantry</a> is a free resource that combats food insecurity by providing food assistance to CMU students and their dependents."
+    },
+    {
+        "Title": "(Women\u2019s Basketball) La Roche vs. Carnegie Mellon",
+        "Date": "December 17, 2024",
+        "Location": "",
+        "Start Time": "December 17, 2024, 02:00 PM",
+        "End Time": "December 17, 2024, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 17, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 17, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 17, 2024",
+        "Location": "",
+        "Start Time": "December 17, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "CMU Pantry Hours",
+        "Date": "December 18, 2024",
+        "Location": "CMU Pantry",
+        "Start Time": "December 18, 2024, 04:30 PM",
+        "End Time": "December 18, 2024, 07:30 PM",
+        "Is Canceled": "",
+        "Repeats": "weekly",
+        "Description": "The <a href=\"https://www.cmu.edu/student-affairs/resources/cmu-pantry/\" target=\"_blank\" rel=\"noopener\">CMU Pantry</a> is a free resource that combats food insecurity by providing food assistance to CMU students and their dependents."
+    },
+    {
+        "Title": "Final Grades Due by",
+        "Date": "December 18, 2024",
+        "Location": "",
+        "Start Time": "December 18, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 18, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 18, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 18, 2024",
+        "Location": "",
+        "Start Time": "December 18, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "CMU Pantry Hours",
+        "Date": "December 19, 2024",
+        "Location": "CMU Pantry",
+        "Start Time": "December 19, 2024, 02:00 PM",
+        "End Time": "December 19, 2024, 05:00 PM",
+        "Is Canceled": "",
+        "Repeats": "weekly",
+        "Description": "The <a href=\"https://www.cmu.edu/student-affairs/resources/cmu-pantry/\" target=\"_blank\" rel=\"noopener\">CMU Pantry</a> is a free resource that combats food insecurity by providing food assistance to CMU students and their dependents."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 19, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 19, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 19, 2024",
+        "Location": "",
+        "Start Time": "December 19, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 20, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 20, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 20, 2024",
+        "Location": "",
+        "Start Time": "December 20, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Yalda Night",
+        "Date": "December 20, 2024",
+        "Location": "",
+        "Start Time": "December 20, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 21, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 21, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 21, 2024",
+        "Location": "",
+        "Start Time": "December 21, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Yule",
+        "Date": "December 21, 2024",
+        "Location": "",
+        "Start Time": "December 21, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 22, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 22, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 22, 2024",
+        "Location": "",
+        "Start Time": "December 22, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Nativity Fast",
+        "Date": "December 23, 2024",
+        "Location": "",
+        "Start Time": "December 23, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Community Appreciation Day",
+        "Date": "December 23, 2024",
+        "Location": "",
+        "Start Time": "December 23, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 23, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 23, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 24, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 24, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "University Closed",
+        "Date": "December 24, 2024",
+        "Location": "",
+        "Start Time": "December 24, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Christmas / Feast of the Nativity",
+        "Date": "December 25, 2024",
+        "Location": "",
+        "Start Time": "December 25, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 25, 2024",
+        "Location": "",
+        "Start Time": "December 25, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 25, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 25, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "University Closed",
+        "Date": "December 25, 2024",
+        "Location": "",
+        "Start Time": "December 25, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 26, 2024",
+        "Location": "",
+        "Start Time": "December 26, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 26, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 26, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "December 26, 2024",
+        "Location": "",
+        "Start Time": "December 26, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "University Closed",
+        "Date": "December 26, 2024",
+        "Location": "",
+        "Start Time": "December 26, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 27, 2024",
+        "Location": "",
+        "Start Time": "December 27, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 27, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 27, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "December 27, 2024",
+        "Location": "",
+        "Start Time": "December 27, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "University Closed",
+        "Date": "December 27, 2024",
+        "Location": "",
+        "Start Time": "December 27, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Hanukkah",
+        "Date": "December 28, 2024",
+        "Location": "",
+        "Start Time": "December 28, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    },
+    {
+        "Title": "Here to Stay: Celebrating 40 Years at the Architecture Archives",
+        "Date": "December 28, 2024",
+        "Location": "Hunt Library, Fourth Floor",
+        "Start Time": "December 28, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": "This University Libraries\u2019 exhibition celebrates the 40th anniversary of the Architecture Archives, which was founded to create, conserve and promote the rich history of Pittsburgh\u2019s buildings and tell part of the story of this dynamic city."
+    },
+    {
+        "Title": "Kwanzaa",
+        "Date": "December 28, 2024",
+        "Location": "",
+        "Start Time": "December 28, 2024, 12:00 AM",
+        "End Time": "Time not available",
+        "Is Canceled": "",
+        "Repeats": "",
+        "Description": ""
+    }
+]
