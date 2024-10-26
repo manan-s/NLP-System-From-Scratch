@@ -1,0 +1,12 @@
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain
+opensearch-py
+openai
+tiktoken
+cohere
+chromadb
+pypdf2
+tqdm
+numpy
