@@ -45,9 +45,10 @@ def fetch(url):
         return response.json()  
     return None
 
-
 def create_file_name(url):
-    return url.replace('/', '_').strip('_') + ".txt"
+    special_chars = r'[:?,&=#]'
+    sanitized_url = re.sub(special_chars, '_', url)
+    return sanitized_url.replace('/', '_').strip('_') + ".txt"
 
 def save_page_content(url, soup, output_dir="crawled_pages"):
     page_title = soup.title.string if soup.title and soup.title.string else 'No Title'
@@ -390,6 +391,20 @@ def crawl_pirates_schedule(output_file="pirates_schedule_summary.json", output_d
     print(f"Parsed schedule saved to {output_path}")
 
 
+def download_pdf(url, output_folder):
+    filename = os.path.join(output_folder, url.split('/')[-1])
+    
+    try:
+        response = requests.get(url, stream=True, verify=False)
+        response.raise_for_status()  # Check if the request was successful
+        with open(filename, 'wb') as file:
+            for chunk in response.iter_content(chunk_size=8192):
+                file.write(chunk)
+        
+        print(f"Downloaded: {filename}")
+    except requests.exceptions.RequestException as e:
+        print(f"Failed to download {url}: {e}")
+
 crawl_cmu_events("https://events.cmu.edu/live/calendar/view/all?user_tz=America%2FDetroit&template_vars=id,latitude,longitude,location,time,href,image_raw,title_link,summary,until,is_canceled,is_online,image_src,repeats,is_multi_day,is_first_multi_day,multi_day_span,tag_classes,category_classes,has_map&syntax=%3Cwidget%20type%3D%22events_calendar%22%3E%3Carg%20id%3D%22mini_cal_heat_map%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22thumb_width%22%3E200%3C%2Farg%3E%3Carg%20id%3D%22thumb_height%22%3E200%3C%2Farg%3E%3Carg%20id%3D%22hide_repeats%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22show_groups%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_locations%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22show_tags%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22month_view_day_limit%22%3E2%3C%2Farg%3E%3Carg%20id%3D%22use_tag_classes%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22search_all_events_only%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22use_modular_templates%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22exclude_tag%22%3Eexclude%20from%20main%20calendar%3C%2Farg%3E%3Carg%20id%3D%22display_all_day_events_last%22%3Etrue%3C%2Farg%3E%3C%2Fwidget%3E", output_dir="cmu_events")
 crawl_website("https://www.cmu.edu/engage/alumni/events/campus/")
 crawl_pgh_events()
@@ -438,3 +453,10 @@ crawl_website("https://www.cmu.edu/about/awards.html", output_dir="general_info"
 crawl_website("https://www.britannica.com/place/Pittsburgh", output_dir="general_info", recurse=False)
 crawl_website("https://www.visitpittsburgh.com/", output_dir="visit pittsburgh")
 crawl_website("https://www.pittsburghpa.gov/Home", output_dir="pittsburgh_gov")
+
+
+csv_file_path = 'pdf_urls.csv'
+output_folder = 'scraped_data/pdfs'
+urls = pd.read_csv(csv_file_path, header=None).squeeze().tolist()
+for url in urls:
+    download_pdf(url, output_folder)
