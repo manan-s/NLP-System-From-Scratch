@@ -1,9 +1,12 @@
 import sys
 from typing import List, Tuple
 
+def remove_commas_periods(text: str) -> str:
+    return text.replace(',', '').replace('.', '')
+
 def precision_recall_f1(prediction: str, ground_truth: str) -> Tuple[float, float, float]:
-    pred_tokens = prediction.lower().split()
-    gt_tokens = ground_truth.lower().split()
+    pred_tokens = remove_commas_periods(prediction).lower().split()
+    gt_tokens = remove_commas_periods(ground_truth).lower().split()
     
     common_tokens = set(pred_tokens) & set(gt_tokens)
     num_common_tokens = len(common_tokens)
