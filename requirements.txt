@@ -7,6 +7,7 @@ openai
 tiktoken
 cohere
 chromadb
+pypdf
 pypdf2
 tqdm
 numpy
