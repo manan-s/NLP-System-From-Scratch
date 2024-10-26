@@ -12,13 +12,15 @@ class nn_generator:
         self.chat = ChatHuggingFace(llm=self.llm, verbose=True)
 
     def generate_answer(self, query, retrieved_docs):
-        source_knowledge = "\n".join([doc.page_content for doc in retrieved_docs])
-        augmented_prompt = f"""Using the contexts below, answer the query concisely:
-        
-        Contexts:
+        source_knowledge = "\n".join([doc if isinstance(doc, str) else doc.page_content for doc in retrieved_docs])
+        augmented_prompt = f"""Using the information below, answer the query concisely:
+
+        Information:
         {source_knowledge}
-        
-        Query: {query}"""
+
+        Query: {query}
+
+        Concise Answer:(answer the query in a single phrase or word or, at most, one line)"""
         
         response = self.chat.invoke([augmented_prompt])
-        return response.content
+        return response.content.replace("\n", " ")
