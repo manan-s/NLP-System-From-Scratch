@@ -13,14 +13,14 @@ class nn_generator:
 
     def generate_answer(self, query, retrieved_docs):
         source_knowledge = "\n".join([doc if isinstance(doc, str) else doc.page_content for doc in retrieved_docs])
-        augmented_prompt = f"""Using the information below, answer the query concisely:
+        augmented_prompt = f"""Using the context below, answer the query in a very concise manner. Strictly use as few words as possible. The query could be around an event happening at Pittsburgh or CMU, or any geenral information about CMU and Pittsburgh.:
 
         Information:
         {source_knowledge}
 
         Query: {query}
 
-        Concise Answer:(answer the query in a single phrase or word or, at most, one line)"""
+        """
         
         response = self.chat.invoke([augmented_prompt])
         return response.content.replace("\n", " ")

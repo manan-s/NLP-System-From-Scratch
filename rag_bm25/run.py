@@ -7,7 +7,7 @@ sys.path.append(os.path.abspath(".."))
 from retrievers.bm25_retriever import bm25_retriever
 from generators.nn_generator import nn_generator
 from huggingface_hub import interpreter_login
-interpreter_login("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")
+#interpreter_login("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")
 
 docs_path = '../crawling/scraped_data/'
 questions_file = '../test_data/reference_questions.txt'
