@@ -46,7 +46,7 @@ def fetch(url):
     return None
 
 def create_file_name(url):
-    special_chars = r'[:?,&=#]'
+    special_chars = r'[:?,&=#%]'
     sanitized_url = re.sub(special_chars, '_', url)
     return sanitized_url.replace('/', '_').strip('_') + ".txt"
 
