@@ -104,7 +104,7 @@ def crawl_website(start_url, max_pages=200, output_dir="crawled_pages", recurse=
                 new_links = extract_links(soup, parsed_start_url)
                 print(f"Found {len(new_links)} new links from {current_url}")
                 for link in new_links:
-                    if not any(link.lower().endswith(ext) for ext in image_extensions):
+                    if (not any(link.lower().endswith(ext) for ext in image_extensions)) and ("pdf" not in link.lower()):
                         if link not in visited_urls and link not in urls_to_visit:
                             urls_to_visit.append(link)
 
