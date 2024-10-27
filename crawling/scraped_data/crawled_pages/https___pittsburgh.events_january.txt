@@ -1,0 +1,1320 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Louisville Cardinals at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Louisville Cardinals Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-01T13:00:00-05:00",
+    "endDate": "2025-01-01T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Louisville Cardinals at Pittsburgh Panthers Basketball Tickets",
+            "price": "250",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/louisville-cardinals-basketball-louisville-cardinals-at-pittsburgh-panthers-basketball-jan-01-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Louisville Cardinals Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Louisville Cardinals Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "California Golden Bears at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming California Golden Bears Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-01T13:00:00-05:00",
+    "endDate": "2025-01-01T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "California Golden Bears at Pittsburgh Panthers Basketball Tickets",
+            "price": "27.65",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/california-golden-bears-basketball-california-golden-bears-at-pittsburgh-panthers-basketball-jan-01-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "California Golden Bears Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "California Golden Bears Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Syracuse Orange at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Pittsburgh Panthers Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-02T13:00:00-05:00",
+    "endDate": "2025-01-02T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Syracuse Orange at Pittsburgh Panthers Basketball Tickets",
+            "price": "200",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/syracuse-orange-basketball-syracuse-orange-at-pittsburgh-panthers-basketball-jan-02-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Panthers Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Panthers Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "North Carolina Tar Heels at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming North Carolina Tar Heels Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-03T13:00:00-05:00",
+    "endDate": "2025-01-03T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "North Carolina Tar Heels at Pittsburgh Panthers Basketball Tickets",
+            "price": "500",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/north-carolina-tar-heels-basketball-north-carolina-tar-heels-at-pittsburgh-panthers-basketball-jan-03-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "North Carolina Tar Heels Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "North Carolina Tar Heels Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "ARI SHAFFIR: THE FAREWELL TOUR",
+    "description": "Buy Tickets for an upcoming Ari Shaffir event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-03T19:00:00-05:00",
+    "endDate": "2025-01-03T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "ARI SHAFFIR: THE FAREWELL TOUR Tickets",
+            "price": "139.65",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/ari-shaffir-ari-shaffir-the-farewell-tour-jan-03-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Ari Shaffir"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Ari Shaffir",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Robert Morris University Colonials Womens Hockey",
+    "description": "Buy Tickets for an upcoming RMU Women's Ice Hockey event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-03T19:00:00-05:00",
+    "endDate": "2025-01-03T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Clearview Arena (Formerly RMU Island Sports Center)",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15225, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15225PittsburghPennsylvaniaUS",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Robert Morris University Colonials Womens Hockey Tickets",
+            "price": "12.24",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/rmu-womens-ice-hockey-robert-morris-university-colonials-womens-hockey-jan-03-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "RMU Women's Ice Hockey"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "RMU Women's Ice Hockey",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Robert Morris University Colonials Womens Hockey",
+    "description": "Buy Tickets for an upcoming Robert Morris Colonials Womens Hockey event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-03T19:00:00-05:00",
+    "endDate": "2025-01-03T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Colonials Arena - RMU",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15225, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15225",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Robert Morris University Colonials Womens Hockey Tickets",
+            "price": "28",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/robert-morris-colonials-womens-hockey-robert-morris-university-colonials-womens-hockey-jan-03-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Robert Morris Colonials Womens Hockey"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Robert Morris Colonials Womens Hockey",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "ARI SHAFFIR: THE FAREWELL TOUR",
+    "description": "Buy Tickets for an upcoming Ari Shaffir event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-03T21:30:00-05:00",
+    "endDate": "2025-01-03T23:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "ARI SHAFFIR: THE FAREWELL TOUR Tickets",
+            "price": "139.65",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/ari-shaffir-ari-shaffir-the-farewell-tour-jan-03-2025-9-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Ari Shaffir"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Ari Shaffir",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Stanford Cardinal at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Pittsburgh Panthers Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-04T13:00:00-05:00",
+    "endDate": "2025-01-04T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Stanford Cardinal at Pittsburgh Panthers Basketball Tickets",
+            "price": "40.4",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/stanford-cardinal-basketball-stanford-cardinal-at-pittsburgh-panthers-basketball-jan-04-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Panthers Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Panthers Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Boston College Eagles at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Boston College Eagles Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-04T13:00:00-05:00",
+    "endDate": "2025-01-04T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Boston College Eagles at Pittsburgh Panthers Basketball Tickets",
+            "price": "150",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/boston-college-eagles-basketball-boston-college-eagles-at-pittsburgh-panthers-basketball-jan-04-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Boston College Eagles Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Boston College Eagles Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Robert Morris University Colonials Womens Hockey",
+    "description": "Buy Tickets for an upcoming Robert Morris Colonials Womens Hockey event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-04T15:00:00-05:00",
+    "endDate": "2025-01-04T17:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Colonials Arena - RMU",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15225, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15225",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Robert Morris University Colonials Womens Hockey Tickets",
+            "price": "12.24",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/robert-morris-colonials-womens-hockey-robert-morris-university-colonials-womens-hockey-jan-04-2025-3-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Robert Morris Colonials Womens Hockey"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Robert Morris Colonials Womens Hockey",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Robert Morris University Colonials Womens Hockey",
+    "description": "Buy Tickets for an upcoming RMU Women's Ice Hockey event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-04T15:00:00-05:00",
+    "endDate": "2025-01-04T17:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Clearview Arena (Formerly RMU Island Sports Center)",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15225, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15225PittsburghPennsylvaniaUS",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Robert Morris University Colonials Womens Hockey Tickets",
+            "price": "24.22",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/rmu-womens-ice-hockey-robert-morris-university-colonials-womens-hockey-jan-04-2025-3-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "RMU Women's Ice Hockey"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "RMU Women's Ice Hockey",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "ARI SHAFFIR: THE FAREWELL TOUR",
+    "description": "Buy Tickets for an upcoming Ari Shaffir event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-04T18:30:00-05:00",
+    "endDate": "2025-01-04T20:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "ARI SHAFFIR: THE FAREWELL TOUR Tickets",
+            "price": "139.65",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/ari-shaffir-ari-shaffir-the-farewell-tour-jan-04-2025-6-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Ari Shaffir"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Ari Shaffir",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "ARI SHAFFIR: THE FAREWELL TOUR",
+    "description": "Buy Tickets for an upcoming Ari Shaffir event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-04T21:00:00-05:00",
+    "endDate": "2025-01-04T23:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "ARI SHAFFIR: THE FAREWELL TOUR Tickets",
+            "price": "139.65",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/ari-shaffir-ari-shaffir-the-farewell-tour-jan-04-2025-9-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Ari Shaffir"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Ari Shaffir",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Premium Tailgate Party: Cincinnati Bengal at Pittsburgh Steelers",
+    "description": "Buy Tickets for an upcoming Tailgate Party event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-05T13:00:00-05:00",
+    "endDate": "2025-01-05T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Premium Tailgate Tent - Pittsburgh (InActive)",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15233, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15233",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Premium Tailgate Party: Cincinnati Bengal at Pittsburgh Steelers Tickets",
+            "price": "60.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/tailgate-party-premium-tailgate-party-cincinnati-bengal-at-pittsburgh-steelers-jan-05-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Tailgate Party"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Tailgate Party",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "California Golden Bears at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming California Golden Bears Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-05T13:00:00-05:00",
+    "endDate": "2025-01-05T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "California Golden Bears at Pittsburgh Panthers Basketball Tickets",
+            "price": "150",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/california-golden-bears-basketball-california-golden-bears-at-pittsburgh-panthers-basketball-jan-05-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "California Golden Bears Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "California Golden Bears Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Cincinnati Bengals at Pittsburgh Steelers",
+    "description": "Buy Tickets for an upcoming Bengals vs Steelers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-05T13:00:00-05:00",
+    "endDate": "2025-01-05T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Acrisure Stadium (formerly Heinz Field)",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Cincinnati Bengals at Pittsburgh Steelers Tickets",
+            "price": "80.34",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/bengals-vs-steelers-cincinnati-bengals-at-pittsburgh-steelers-jan-05-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Bengals vs Steelers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Bengals vs Steelers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "ARI SHAFFIR: THE FAREWELL TOUR",
+    "description": "Buy Tickets for an upcoming Ari Shaffir event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-05T18:00:00-05:00",
+    "endDate": "2025-01-05T20:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "ARI SHAFFIR: THE FAREWELL TOUR Tickets",
+            "price": "199",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/ari-shaffir-ari-shaffir-the-farewell-tour-jan-05-2025-6-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Ari Shaffir"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Ari Shaffir",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Clemson Tigers at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Clemson Tigers Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-06T13:00:00-05:00",
+    "endDate": "2025-01-06T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Clemson Tigers at Pittsburgh Panthers Basketball Tickets",
+            "price": "150",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/clemson-tigers-basketball-clemson-tigers-at-pittsburgh-panthers-basketball-jan-06-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Clemson Tigers Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Clemson Tigers Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Georgia Tech Yellow Jackets at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Georgia Tech Yellow Jackets Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-07T13:00:00-05:00",
+    "endDate": "2025-01-07T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Georgia Tech Yellow Jackets at Pittsburgh Panthers Basketball Tickets",
+            "price": "150",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/georgia-tech-yellow-jackets-basketball-georgia-tech-yellow-jackets-at-pittsburgh-panthers-basketball-jan-07-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Georgia Tech Yellow Jackets Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Georgia Tech Yellow Jackets Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Columbus Blue Jackets at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Columbus Blue Jackets event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-07T19:00:00-05:00",
+    "endDate": "2025-01-07T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Columbus Blue Jackets at Pittsburgh Penguins Tickets",
+            "price": "40.8",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/columbus-blue-jackets-columbus-blue-jackets-at-pittsburgh-penguins-jan-07-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Columbus Blue Jackets"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Columbus Blue Jackets",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Funny Girl",
+    "description": "Buy Tickets for an upcoming Funny Girl event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-07T19:30:00-05:00",
+    "endDate": "2025-01-07T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Funny Girl Tickets",
+            "price": "82",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/funny-girl-funny-girl-jan-07-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Funny Girl"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Funny Girl",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Miami Hurricanes at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Miami Hurricanes Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-08T13:00:00-05:00",
+    "endDate": "2025-01-08T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Miami Hurricanes at Pittsburgh Panthers Basketball Tickets",
+            "price": "200",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/miami-hurricanes-basketball-miami-hurricanes-at-pittsburgh-panthers-basketball-jan-08-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Miami Hurricanes Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Miami Hurricanes Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Saint Joseph&#8217;s Hawks at Duquesne Dukes Basketball",
+    "description": "Buy Tickets for an upcoming Duquesne Dukes Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-08T13:00:00-05:00",
+    "endDate": "2025-01-08T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "UPMC Cooper Fieldhouse",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15282, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15282",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Saint Joseph&#8217;s Hawks at Duquesne Dukes Basketball Tickets",
+            "price": "17.34",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/saint-josephs-hawks-basketball-saint-josephs-hawks-at-duquesne-dukes-basketball-jan-08-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Duquesne Dukes Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Duquesne Dukes Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Saint Joseph&#8217;s Hawks at Duquesne Dukes Basketball",
+    "description": "Buy Tickets for an upcoming Duquesne Dukes Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-08T19:00:00-05:00",
+    "endDate": "2025-01-08T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "UPMC Cooper Fieldhouse",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15282, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15282",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Saint Joseph&#8217;s Hawks at Duquesne Dukes Basketball Tickets",
+            "price": "16.32",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/saint-josephs-hawks-basketball-saint-josephs-hawks-at-duquesne-dukes-basketball-jan-08-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Duquesne Dukes Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Duquesne Dukes Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Funny Girl",
+    "description": "Buy Tickets for an upcoming Funny Girl event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-08T19:30:00-05:00",
+    "endDate": "2025-01-08T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Funny Girl Tickets",
+            "price": "88",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/funny-girl-funny-girl-jan-08-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Funny Girl"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Funny Girl",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Stanford Cardinal at Pittsburgh Panthers Basketball",
+    "description": "Buy Tickets for an upcoming Pittsburgh Panthers Basketball event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-09T13:00:00-05:00",
+    "endDate": "2025-01-09T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Stanford Cardinal at Pittsburgh Panthers Basketball Tickets",
+            "price": "150",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/stanford-cardinal-basketball-stanford-cardinal-at-pittsburgh-panthers-basketball-jan-09-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Panthers Basketball"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Panthers Basketball",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Edmonton Oilers at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Edmonton Oilers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-09T19:00:00-05:00",
+    "endDate": "2025-01-09T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Edmonton Oilers at Pittsburgh Penguins Tickets",
+            "price": "50.49",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/edmonton-oilers-edmonton-oilers-at-pittsburgh-penguins-jan-09-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Edmonton Oilers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Edmonton Oilers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Phil Hanley Spellbound Tour",
+    "description": "Buy Tickets for an upcoming Phil Hanley event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-09T19:00:00-05:00",
+    "endDate": "2025-01-09T21:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Pittsburgh Improv",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15120, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15120",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Phil Hanley Spellbound Tour Tickets",
+            "price": "44",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/phil-hanley-phil-hanley-spellbound-tour-jan-09-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Phil Hanley"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Phil Hanley",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Funny Girl",
+    "description": "Buy Tickets for an upcoming Funny Girl event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-01-09T19:30:00-05:00",
+    "endDate": "2025-01-09T21:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Funny Girl Tickets",
+            "price": "88",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:02+00:00",
+            "url": "https://pittsburgh.events/dates/funny-girl-funny-girl-jan-09-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Funny Girl"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Funny Girl",
+        "url": "https://pittsburgh.events"
+    }
+}
+

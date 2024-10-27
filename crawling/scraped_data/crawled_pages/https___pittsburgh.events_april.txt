@@ -1,0 +1,1320 @@
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Intervals",
+    "description": "Buy Tickets for an upcoming Intervals event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-01T18:30:00-04:00",
+    "endDate": "2025-04-01T20:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Spirit Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15201, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15201",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Intervals Tickets",
+            "price": "46.74",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/intervals-intervals-apr-01-2025-6-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Intervals"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Intervals",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Kimberly Akimbo",
+    "description": "Buy Tickets for an upcoming Kimberly Akimbo event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-01T19:00:00-04:00",
+    "endDate": "2025-04-01T21:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Kimberly Akimbo Tickets",
+            "price": "355",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/kimberly-akimbo-kimberly-akimbo-apr-01-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Kimberly Akimbo"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Kimberly Akimbo",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-01T19:30:00-04:00",
+    "endDate": "2025-04-01T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "214.2",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-peter-pan-apr-01-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-02T19:30:00-04:00",
+    "endDate": "2025-04-02T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "214.2",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-peter-pan-apr-02-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-03T19:30:00-04:00",
+    "endDate": "2025-04-03T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "214.2",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-peter-pan-apr-03-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "New York Yankees at Pittsburgh Pirates (Home Opener)",
+    "description": "Buy Tickets for an upcoming New York Yankees event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-04T13:00:00-04:00",
+    "endDate": "2025-04-04T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "New York Yankees at Pittsburgh Pirates (Home Opener) Tickets",
+            "price": "255",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/new-york-yankees-new-york-yankees-at-pittsburgh-pirates-home-opener-apr-04-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "New York Yankees"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "New York Yankees",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan - theater event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-04T19:30:00-04:00",
+    "endDate": "2025-04-04T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "214.2",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-theater-peter-pan-apr-04-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan - theater"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan - theater",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-04T19:30:00-04:00",
+    "endDate": "2025-04-04T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-apr-04-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "New York Yankees at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming New York Yankees event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-05T13:00:00-04:00",
+    "endDate": "2025-04-05T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "New York Yankees at Pittsburgh Pirates Tickets",
+            "price": "102",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/new-york-yankees-new-york-yankees-at-pittsburgh-pirates-apr-05-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "New York Yankees"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "New York Yankees",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-05T14:00:00-04:00",
+    "endDate": "2025-04-05T16:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "167.25",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-peter-pan-apr-05-2025-2-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Disturbed",
+    "description": "Buy Tickets for an upcoming 25th Anniversary Tour event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-05T18:30:00-04:00",
+    "endDate": "2025-04-05T20:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Disturbed Tickets",
+            "price": "59.84",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/the-sickness-25th-anniversary-disturbed-apr-05-2025-6-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "25th Anniversary Tour"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "25th Anniversary Tour",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-05T19:30:00-04:00",
+    "endDate": "2025-04-05T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "75",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-peter-pan-apr-05-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Reggie Watts Live (21 &amp; Over)",
+    "description": "Buy Tickets for an upcoming Reggie Watts event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-05T19:30:00-04:00",
+    "endDate": "2025-04-05T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Spirit Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15201, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15201",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Reggie Watts Live (21 &amp; Over) Tickets",
+            "price": "54.45",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/reggie-watts-reggie-watts-live-21-over-apr-05-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Reggie Watts"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Reggie Watts",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-05T19:30:00-04:00",
+    "endDate": "2025-04-05T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "43.52",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-apr-05-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "New York Yankees at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming New York Yankees event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-06T13:00:00-04:00",
+    "endDate": "2025-04-06T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "New York Yankees at Pittsburgh Pirates Tickets",
+            "price": "76.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/new-york-yankees-new-york-yankees-at-pittsburgh-pirates-apr-06-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "New York Yankees"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "New York Yankees",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-06T13:00:00-04:00",
+    "endDate": "2025-04-06T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "200",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-peter-pan-apr-06-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-06T14:30:00-04:00",
+    "endDate": "2025-04-06T16:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-apr-06-2025-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Peter Pan",
+    "description": "Buy Tickets for an upcoming Peter Pan - theater event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-06T18:30:00-04:00",
+    "endDate": "2025-04-06T20:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Benedum Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Peter Pan Tickets",
+            "price": "214.2",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/peter-pan-theater-peter-pan-apr-06-2025-6-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Peter Pan - theater"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Peter Pan - theater",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "St. Louis Cardinals at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-07T13:00:00-04:00",
+    "endDate": "2025-04-07T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "St. Louis Cardinals at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/st-louis-cardinals-st-louis-cardinals-at-pittsburgh-pirates-apr-07-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "St. Louis Cardinals at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-08T13:00:00-04:00",
+    "endDate": "2025-04-08T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "St. Louis Cardinals at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/st-louis-cardinals-st-louis-cardinals-at-pittsburgh-pirates-apr-08-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago Blackhawks at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Chicago Blackhawks event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-08T19:00:00-04:00",
+    "endDate": "2025-04-08T21:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago Blackhawks at Pittsburgh Penguins Tickets",
+            "price": "55.89",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-blackhawks-chicago-blackhawks-at-pittsburgh-penguins-apr-08-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago Blackhawks"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago Blackhawks",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago Blackhawks at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Chicago Blackhawks event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-08T19:30:00-04:00",
+    "endDate": "2025-04-08T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago Blackhawks at Pittsburgh Penguins Tickets",
+            "price": "59.49",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-blackhawks-chicago-blackhawks-at-pittsburgh-penguins-apr-08-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago Blackhawks"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago Blackhawks",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Explosions in the Sky",
+    "description": "Buy Tickets for an upcoming Explosions In the Sky event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-08T20:00:00-04:00",
+    "endDate": "2025-04-08T22:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Stage AE",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Explosions in the Sky Tickets",
+            "price": "59",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/explosions-in-the-sky-explosions-in-the-sky-apr-08-2025-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Explosions In the Sky"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Explosions In the Sky",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "St. Louis Cardinals at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-09T13:00:00-04:00",
+    "endDate": "2025-04-09T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "St. Louis Cardinals at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/st-louis-cardinals-st-louis-cardinals-at-pittsburgh-pirates-apr-09-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Flipturn",
+    "description": "Buy Tickets for an upcoming Flipturn event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-10T20:00:00-04:00",
+    "endDate": "2025-04-10T22:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Stage AE",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Flipturn Tickets",
+            "price": "55.76",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/flipturn-flipturn-apr-10-2025-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Flipturn"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Flipturn",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-11T19:30:00-04:00",
+    "endDate": "2025-04-11T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-apr-11-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-12T19:00:00-04:00",
+    "endDate": "2025-04-12T21:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-apr-12-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-13T14:30:00-04:00",
+    "endDate": "2025-04-13T16:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-apr-13-2025-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Boston Bruins at Pittsburgh Penguins",
+    "description": "Buy Tickets for an upcoming Boston Bruins event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-13T15:30:00-04:00",
+    "endDate": "2025-04-13T17:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PPG Paints Arena",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15219, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15219",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Boston Bruins at Pittsburgh Penguins Tickets",
+            "price": "79",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/boston-bruins-boston-bruins-at-pittsburgh-penguins-apr-13-2025-3-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Boston Bruins"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Boston Bruins",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Washington Nationals at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-04-14T13:00:00-04:00",
+    "endDate": "2025-04-14T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Washington Nationals at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:04+00:00",
+            "url": "https://pittsburgh.events/dates/washington-nationals-washington-nationals-at-pittsburgh-pirates-apr-14-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+

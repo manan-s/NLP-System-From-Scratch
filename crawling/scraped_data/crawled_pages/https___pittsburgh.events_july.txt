@@ -1,0 +1,528 @@
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "St. Louis Cardinals at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-01T13:00:00-04:00",
+    "endDate": "2025-07-01T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "St. Louis Cardinals at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/st-louis-cardinals-st-louis-cardinals-at-pittsburgh-pirates-jul-01-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "St. Louis Cardinals at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-02T13:00:00-04:00",
+    "endDate": "2025-07-02T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "St. Louis Cardinals at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/st-louis-cardinals-st-louis-cardinals-at-pittsburgh-pirates-jul-02-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago White Sox at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Chicago White Sox event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-18T13:00:00-04:00",
+    "endDate": "2025-07-18T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago White Sox at Pittsburgh Pirates Tickets",
+            "price": "40.8",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-white-sox-chicago-white-sox-at-pittsburgh-pirates-jul-18-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago White Sox"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago White Sox",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago White Sox at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Chicago White Sox event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-19T13:00:00-04:00",
+    "endDate": "2025-07-19T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago White Sox at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-white-sox-chicago-white-sox-at-pittsburgh-pirates-jul-19-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago White Sox"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago White Sox",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Chicago White Sox at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Chicago White Sox event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-20T13:00:00-04:00",
+    "endDate": "2025-07-20T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Chicago White Sox at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/chicago-white-sox-chicago-white-sox-at-pittsburgh-pirates-jul-20-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Chicago White Sox"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Chicago White Sox",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Detroit Tigers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Detroit Tigers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-21T13:00:00-04:00",
+    "endDate": "2025-07-21T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Detroit Tigers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/detroit-tigers-detroit-tigers-at-pittsburgh-pirates-jul-21-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Detroit Tigers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Detroit Tigers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Detroit Tigers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Detroit Tigers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-22T13:00:00-04:00",
+    "endDate": "2025-07-22T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Detroit Tigers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/detroit-tigers-detroit-tigers-at-pittsburgh-pirates-jul-22-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Detroit Tigers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Detroit Tigers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Detroit Tigers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Detroit Tigers event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-23T13:00:00-04:00",
+    "endDate": "2025-07-23T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Detroit Tigers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/detroit-tigers-detroit-tigers-at-pittsburgh-pirates-jul-23-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Detroit Tigers"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Detroit Tigers",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Dude Perfect",
+    "description": "Buy Tickets for an upcoming Dude Perfect event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-24T19:00:00-04:00",
+    "endDate": "2025-07-24T21:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Petersen Events Center",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15261, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15261",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Dude Perfect Tickets",
+            "price": "54",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/dude-perfect-dude-perfect-jul-24-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Dude Perfect"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Dude Perfect",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Arizona Diamondbacks at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Arizona Diamondbacks event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-25T13:00:00-04:00",
+    "endDate": "2025-07-25T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Arizona Diamondbacks at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/arizona-diamondbacks-arizona-diamondbacks-at-pittsburgh-pirates-jul-25-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Arizona Diamondbacks"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Arizona Diamondbacks",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Arizona Diamondbacks at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Arizona Diamondbacks event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-26T13:00:00-04:00",
+    "endDate": "2025-07-26T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Arizona Diamondbacks at Pittsburgh Pirates Tickets",
+            "price": "40.8",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/arizona-diamondbacks-arizona-diamondbacks-at-pittsburgh-pirates-jul-26-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Arizona Diamondbacks"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Arizona Diamondbacks",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Arizona Diamondbacks at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Arizona Diamondbacks event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-07-27T13:00:00-04:00",
+    "endDate": "2025-07-27T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Arizona Diamondbacks at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/arizona-diamondbacks-arizona-diamondbacks-at-pittsburgh-pirates-jul-27-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Arizona Diamondbacks"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Arizona Diamondbacks",
+        "url": "https://pittsburgh.events"
+    }
+}
+

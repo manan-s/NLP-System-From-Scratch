@@ -1,0 +1,1320 @@
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-01T14:30:00-04:00",
+    "endDate": "2025-06-01T16:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-01-2025-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Houston Astros at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Houston Astros event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-03T13:00:00-04:00",
+    "endDate": "2025-06-03T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Houston Astros at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/houston-astros-houston-astros-at-pittsburgh-pirates-jun-03-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Houston Astros"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Houston Astros",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Houston Astros at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Houston Astros event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-04T13:00:00-04:00",
+    "endDate": "2025-06-04T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Houston Astros at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/houston-astros-houston-astros-at-pittsburgh-pirates-jun-04-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Houston Astros"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Houston Astros",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra and Yo-Yo Ma",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-04T19:30:00-04:00",
+    "endDate": "2025-06-04T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra and Yo-Yo Ma Tickets",
+            "price": "108.8",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/yo-yo-ma-pittsburgh-symphony-orchestra-and-yo-yo-ma-jun-04-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Houston Astros at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Houston Astros event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-05T13:00:00-04:00",
+    "endDate": "2025-06-05T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Houston Astros at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/houston-astros-houston-astros-at-pittsburgh-pirates-jun-05-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Houston Astros"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Houston Astros",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Philadelphia Phillies at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Philadelphia Phillies event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-06T13:00:00-04:00",
+    "endDate": "2025-06-06T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Philadelphia Phillies at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/philadelphia-phillies-philadelphia-phillies-at-pittsburgh-pirates-jun-06-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Philadelphia Phillies"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Philadelphia Phillies",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-06T19:30:00-04:00",
+    "endDate": "2025-06-06T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-06-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Teddy Swims",
+    "description": "Buy Tickets for an upcoming Teddy Swims event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-06T20:00:00-04:00",
+    "endDate": "2025-06-06T22:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Stage AE",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Teddy Swims Tickets",
+            "price": "156.48",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/teddy-swims-teddy-swims-jun-06-2025-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Teddy Swims"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Teddy Swims",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Philadelphia Phillies at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Philadelphia Phillies event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-07T13:00:00-04:00",
+    "endDate": "2025-06-07T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Philadelphia Phillies at Pittsburgh Pirates Tickets",
+            "price": "81.6",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:05+00:00",
+            "url": "https://pittsburgh.events/dates/philadelphia-phillies-philadelphia-phillies-at-pittsburgh-pirates-jun-07-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Philadelphia Phillies"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Philadelphia Phillies",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Philadelphia Phillies at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Philadelphia Phillies event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-08T13:00:00-04:00",
+    "endDate": "2025-06-08T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Philadelphia Phillies at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/philadelphia-phillies-philadelphia-phillies-at-pittsburgh-pirates-jun-08-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Philadelphia Phillies"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Philadelphia Phillies",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra &#8211; Beethoven, Mahler and World Premiere",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-08T14:30:00-04:00",
+    "endDate": "2025-06-08T16:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra &#8211; Beethoven, Mahler and World Premiere Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-beethoven-mahler-and-world-premiere-jun-08-2025-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Miami Marlins at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Miami Marlins event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-09T13:00:00-04:00",
+    "endDate": "2025-06-09T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Miami Marlins at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/miami-marlins-miami-marlins-at-pittsburgh-pirates-jun-09-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Miami Marlins"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Miami Marlins",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Miami Marlins at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Miami Marlins event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-10T13:00:00-04:00",
+    "endDate": "2025-06-10T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Miami Marlins at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/miami-marlins-miami-marlins-at-pittsburgh-pirates-jun-10-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Miami Marlins"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Miami Marlins",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Miami Marlins at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Miami Marlins event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-11T13:00:00-04:00",
+    "endDate": "2025-06-11T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Miami Marlins at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/miami-marlins-miami-marlins-at-pittsburgh-pirates-jun-11-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Miami Marlins"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Miami Marlins",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Sarah Millican",
+    "description": "Buy Tickets for an upcoming Sarah Millican event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-11T20:00:00-04:00",
+    "endDate": "2025-06-11T22:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Byham Theater",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "",
+            "addressRegion": "PA",
+            "postalCode": "15222PittsburghPAUS",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Sarah Millican Tickets",
+            "price": "185",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/sarah-millican-sarah-millican-jun-11-2025-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Sarah Millican"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Sarah Millican",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra &#8211; Shostakovich 10 and World Premiere / Manfred Honeck conductor, Beatrice Rana piano",
+    "description": "Buy Tickets for an upcoming Beatrice Rana event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-13T19:30:00-04:00",
+    "endDate": "2025-06-13T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra &#8211; Shostakovich 10 and World Premiere / Manfred Honeck conductor, Beatrice Rana piano Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/beatrice-rana-pittsburgh-symphony-orchestra-shostakovich-10-and-world-premiere-manfred-honeck-conductor-beatrice-rana-piano-jun-13-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Beatrice Rana"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Beatrice Rana",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-14T19:30:00-04:00",
+    "endDate": "2025-06-14T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-14-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-15T14:30:00-04:00",
+    "endDate": "2025-06-15T16:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-15-2025-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Texas Rangers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-20T13:00:00-04:00",
+    "endDate": "2025-06-20T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Texas Rangers at Pittsburgh Pirates Tickets",
+            "price": "25.5",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/texas-rangers-texas-rangers-at-pittsburgh-pirates-jun-20-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-20T19:30:00-04:00",
+    "endDate": "2025-06-20T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-20-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Megan Moroney",
+    "description": "Buy Tickets for an upcoming Megan Moroney event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-20T20:00:00-04:00",
+    "endDate": "2025-06-20T22:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Stage AE",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Megan Moroney Tickets",
+            "price": "236.56",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/megan-moroney-megan-moroney-jun-20-2025-8-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Megan Moroney"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Megan Moroney",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Texas Rangers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-21T13:00:00-04:00",
+    "endDate": "2025-06-21T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Texas Rangers at Pittsburgh Pirates Tickets",
+            "price": "40.8",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/texas-rangers-texas-rangers-at-pittsburgh-pirates-jun-21-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-21T19:30:00-04:00",
+    "endDate": "2025-06-21T21:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-21-2025-7-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Texas Rangers at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming Pittsburgh Pirates event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-22T13:00:00-04:00",
+    "endDate": "2025-06-22T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Texas Rangers at Pittsburgh Pirates Tickets",
+            "price": "40.8",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/texas-rangers-texas-rangers-at-pittsburgh-pirates-jun-22-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Pirates"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Pirates",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-22T14:30:00-04:00",
+    "endDate": "2025-06-22T16:30:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "264",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-22-2025-2-30-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "New York Mets at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming New York Mets event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-27T13:00:00-04:00",
+    "endDate": "2025-06-27T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "New York Mets at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/new-york-mets-new-york-mets-at-pittsburgh-pirates-jun-27-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "New York Mets"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "New York Mets",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-27T19:00:00-04:00",
+    "endDate": "2025-06-27T21:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra Tickets",
+            "price": "300.3",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-jun-27-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "New York Mets at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming New York Mets event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-28T13:00:00-04:00",
+    "endDate": "2025-06-28T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "New York Mets at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/new-york-mets-new-york-mets-at-pittsburgh-pirates-jun-28-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "New York Mets"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "New York Mets",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "name": "Pittsburgh Symphony Orchestra &#8211; Lord of the Rings: The Fellowship of the Ring",
+    "description": "Buy Tickets for an upcoming Pittsburgh Symphony Orchestra event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-28T19:00:00-04:00",
+    "endDate": "2025-06-28T21:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "Heinz Hall",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15222, Pittsburgh, PA, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "PA",
+            "postalCode": "15222",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "Pittsburgh Symphony Orchestra &#8211; Lord of the Rings: The Fellowship of the Ring Tickets",
+            "price": "128.57",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/pittsburgh-symphony-orchestra-pittsburgh-symphony-orchestra-lord-of-the-rings-the-fellowship-of-the-ring-jun-28-2025-7-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "Pittsburgh Symphony Orchestra"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Pittsburgh Symphony Orchestra",
+        "url": "https://pittsburgh.events"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "New York Mets at Pittsburgh Pirates",
+    "description": "Buy Tickets for an upcoming New York Mets event.",
+    "image": "https://pittsburgh.events/wp-content/uploads/2023/04/Schedule-Tickets.png",
+    "startDate": "2025-06-29T13:00:00-04:00",
+    "endDate": "2025-06-29T15:00:00-04:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+        "@type": "Place",
+        "name": "PNC Park",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "15212, Pittsburgh, Pennsylvania, US",
+            "addressLocality": "Pittsburgh",
+            "addressRegion": "Pennsylvania",
+            "postalCode": "15212",
+            "addressCountry": "US"
+        }
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "name": "New York Mets at Pittsburgh Pirates Tickets",
+            "price": "51",
+            "priceCurrency": "USD",
+            "validFrom": "2024-10-25T20:01:06+00:00",
+            "url": "https://pittsburgh.events/dates/new-york-mets-new-york-mets-at-pittsburgh-pirates-jun-29-2025-1-00-pm/",
+            "availability": "https://schema.org/InStock"
+        }
+    ],
+    "performer": {
+        "@type": "Person",
+        "name": "New York Mets"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "New York Mets",
+        "url": "https://pittsburgh.events"
+    }
+}
+
