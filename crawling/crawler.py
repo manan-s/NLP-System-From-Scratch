@@ -14,7 +14,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from datetime import datetime, timedelta
 
-
+## common fetcher
 def fetch_and_parse(url, use_session=False):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
@@ -80,7 +80,7 @@ def extract_links(soup, parsed_base_url):
             links.append(full_url)
     return links
 
-# Main crawl function
+# Main recursive crawl function
 def crawl_website(start_url, max_pages=200, output_dir="crawled_pages", recurse=True):
     visited_urls = set()
     urls_to_visit = [start_url]
@@ -296,7 +296,7 @@ def crawl_wikipedia(url, output_dir="crawled_pages"):
         print(f"Page '{title}' does not exist.")
 
 
-def crawl_pgh_events():
+def crawl_pgh_events(output_dir="crawled_pages"):
     base_url = "https://www.pghcitypaper.com/pittsburgh/EventSearch?narrowByDate=2024-10-26-to-2025-11-20&page={page}&sortType=date&v=d"
     page = 1
     while True:
@@ -306,7 +306,7 @@ def crawl_pgh_events():
         
         output_filename = f"events_page_{page}.json"
         
-        if not parse_and_save_pgh(soup, output_filename):
+        if not parse_and_save_pgh(soup, output_filename, output_dir):
             print(f"No events found on page {page}. Stopping.")
             break
         
@@ -405,54 +405,51 @@ def download_pdf(url, output_folder):
     except requests.exceptions.RequestException as e:
         print(f"Failed to download {url}: {e}")
 
-crawl_cmu_events("https://events.cmu.edu/live/calendar/view/all?user_tz=America%2FDetroit&template_vars=id,latitude,longitude,location,time,href,image_raw,title_link,summary,until,is_canceled,is_online,image_src,repeats,is_multi_day,is_first_multi_day,multi_day_span,tag_classes,category_classes,has_map&syntax=%3Cwidget%20type%3D%22events_calendar%22%3E%3Carg%20id%3D%22mini_cal_heat_map%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22thumb_width%22%3E200%3C%2Farg%3E%3Carg%20id%3D%22thumb_height%22%3E200%3C%2Farg%3E%3Carg%20id%3D%22hide_repeats%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22show_groups%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_locations%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22show_tags%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22month_view_day_limit%22%3E2%3C%2Farg%3E%3Carg%20id%3D%22use_tag_classes%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22search_all_events_only%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22use_modular_templates%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22exclude_tag%22%3Eexclude%20from%20main%20calendar%3C%2Farg%3E%3Carg%20id%3D%22display_all_day_events_last%22%3Etrue%3C%2Farg%3E%3C%2Fwidget%3E", output_dir="cmu_events")
-crawl_website("https://www.cmu.edu/engage/alumni/events/campus/")
-crawl_pgh_events()
+crawl_cmu_events("https://events.cmu.edu/live/calendar/view/all?user_tz=America%2FDetroit&template_vars=id,latitude,longitude,location,time,href,image_raw,title_link,summary,until,is_canceled,is_online,image_src,repeats,is_multi_day,is_first_multi_day,multi_day_span,tag_classes,category_classes,has_map&syntax=%3Cwidget%20type%3D%22events_calendar%22%3E%3Carg%20id%3D%22mini_cal_heat_map%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22thumb_width%22%3E200%3C%2Farg%3E%3Carg%20id%3D%22thumb_height%22%3E200%3C%2Farg%3E%3Carg%20id%3D%22hide_repeats%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22show_groups%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_locations%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22show_tags%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22month_view_day_limit%22%3E2%3C%2Farg%3E%3Carg%20id%3D%22use_tag_classes%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22search_all_events_only%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22use_modular_templates%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22exclude_tag%22%3Eexclude%20from%20main%20calendar%3C%2Farg%3E%3Carg%20id%3D%22display_all_day_events_last%22%3Etrue%3C%2Farg%3E%3C%2Fwidget%3E", output_dir="scraped_data/cmu_events")
+crawl_website("https://www.cmu.edu/engage/alumni/events/campus/",output_dir="scraped_data/crawled_pages")
+crawl_pgh_events(output_dir="scraped_data/crawled_pages")
 file_path = './general_urls.csv'
 df = pd.read_csv(file_path)
 
 for url in df.iloc[:, 0]:  # Access the first column
     if 'en.wikipedia.org' in url:
-        crawl_wikipedia(url)
+        crawl_wikipedia(url, output_dir="scraped_data/crawled_pages")
     elif 'pittsburgh.events' in url:
-        crawl_event_pittsburgh(fetch_and_parse(url), create_file_name(url))
+        crawl_event_pittsburgh(fetch_and_parse(url), create_file_name(url), output_dir="scraped_data/crawled_pages")
     elif 'downtownpittsburgh.com' in url:
-        # print(f"Downtown Pittsburgh link: {url}")
-        crawl_event_info_downtown_pittsburgh(fetch_and_parse(url), create_file_name(url))
-    elif True:  # Acts as a default condition
-        print(f"Other link: {url}")
+        crawl_event_info_downtown_pittsburgh(fetch_and_parse(url), create_file_name(url), output_dir="scraped_data/crawled_pages")
 
 # crawl_website("https://bananasplitfest.com/", output_dir="banana_split_fest")
-crawl_website("https://littleitalydays.com/", output_dir="little_italy_days")
-crawl_website("https://pittsburghrestaurantweek.com/", output_dir="pittburgh_restaurant_week")
-crawl_website("https://www.pghtacofest.com/", output_dir="pgh_taco_fest")
-crawl_website("https://www.picklesburgh.com/", output_dir="pickles_burgh")
+crawl_website("https://littleitalydays.com/", output_dir="scraped_data/little_italy_days")
+crawl_website("https://pittsburghrestaurantweek.com/", output_dir="scraped_data/pittburgh_restaurant_week")
+crawl_website("https://www.pghtacofest.com/", output_dir="scraped_data/pgh_taco_fest")
+crawl_website("https://www.picklesburgh.com/", output_dir="scraped_data/pickles_burgh")
 
 
 
-crawl_website("https://www.visitpittsburgh.com/events-festivals/food-festivals/", output_dir="food_festivals")
-crawl_website("https://carnegiemuseums.org/", output_dir="museum")
-crawl_website("https://www.heinzhistorycenter.org/", output_dir="museum")
-crawl_website("https://www.thefrickpittsburgh.org/", output_dir="museum")
+crawl_website("https://www.visitpittsburgh.com/events-festivals/food-festivals/", output_dir="scraped_data/food_festivals")
+crawl_website("https://carnegiemuseums.org/", output_dir="scraped_data/museum")
+crawl_website("https://www.heinzhistorycenter.org/", output_dir="scraped_data/museum")
+crawl_website("https://www.thefrickpittsburgh.org/", output_dir="scraped_data/museum")
 
-crawl_website("https://www.pittsburghsymphony.org/", output_dir="arts")
-crawl_website("https://pittsburghopera.org/", output_dir="arts")
-crawl_website("https://trustarts.org/", output_dir="arts")
-crawl_website("https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/", output_dir="sports")
-crawl_penguin_schedule("https://api-web.nhle.com/v1/club-schedule-season/pit/20242025")
-crawl_pirates_schedule()
-crawl_website("https://www.steelers.com/schedule/index", output_dir="schedules")
-crawl_website("http://www.cmu.edu/leadership/", output_dir="general_info", recurse=False)
-crawl_website("https://www.cmu.edu/about/mission.html", output_dir="general_info", recurse=False)
-crawl_website("https://www.cmu.edu/about/history.html", output_dir="general_info", recurse=False)
-crawl_website("https://www.cmu.edu/about/traditions.html", output_dir="general_info", recurse=False)
-crawl_website("http://www.cmu.edu/diversity", output_dir="general_info", recurse=False)
-crawl_website("https://www.cmu.edu/about/pittsburgh.html", output_dir="general_info", recurse=False)
-crawl_website("https://www.cmu.edu/about/rankings.html", output_dir="general_info", recurse=False)
-crawl_website("https://www.cmu.edu/about/awards.html", output_dir="general_info", recurse=False)
-crawl_website("https://www.britannica.com/place/Pittsburgh", output_dir="general_info", recurse=False)
-crawl_website("https://www.visitpittsburgh.com/", output_dir="visit pittsburgh")
-crawl_website("https://www.pittsburghpa.gov/Home", output_dir="pittsburgh_gov")
+crawl_website("https://www.pittsburghsymphony.org/", output_dir="scraped_data/arts")
+crawl_website("https://pittsburghopera.org/", output_dir="scraped_data/arts")
+crawl_website("https://trustarts.org/", output_dir="scraped_data/arts")
+crawl_website("https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/", output_dir="scraped_data/sports")
+crawl_penguin_schedule("https://api-web.nhle.com/v1/club-schedule-season/pit/20242025", output_dir="scraped_data/schedules")
+crawl_pirates_schedule(output_dir="scraped_data/schedules")
+crawl_website("https://www.steelers.com/schedule/index", output_dir="scraped_data/schedules")
+crawl_website("http://www.cmu.edu/leadership/", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.cmu.edu/about/mission.html", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.cmu.edu/about/history.html", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.cmu.edu/about/traditions.html", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("http://www.cmu.edu/diversity", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.cmu.edu/about/pittsburgh.html", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.cmu.edu/about/rankings.html", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.cmu.edu/about/awards.html", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.britannica.com/place/Pittsburgh", output_dir="scraped_data/general_info", recurse=False)
+crawl_website("https://www.visitpittsburgh.com/", output_dir="scraped_data/visit pittsburgh")
+crawl_website("https://www.pittsburghpa.gov/Home", output_dir="scraped_data/pittsburgh_gov")
 
 
 csv_file_path = 'pdf_urls.csv'
